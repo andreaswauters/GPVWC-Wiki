@@ -1,0 +1,424 @@
+﻿{{Constructor infobox |
+Short_name    = {{flagicon|BEL}} Wauters |
+Long_name     = Wauters Automotive |
+Logo          =  [[File:wauters_logo_2013.png|200px]]|
+Owner         = {{flagicon|BEL}} [[Andreas Wauters]] |
+Base          = {{flagicon|BEL}} Tielrode, Belgium |
+Staff         = - |
+JoinYear      = 2013 |
+Series        = FC |
+AssociatedTeams = None |
+Website         = - |
+<!-- Competitions -->
+  Team4         = [[Wauters Automotive FC|Wauters Automotive]]|
+  Principal4    = {{flagicon|BEL}} [[Andreas Wauters]] |
+  Debut4        = [[2013 Challenge Australian Grand Prix|Australia 2013]]|
+  Team3         = [[Wauters Automotive GT|Wauters Automotive]]|
+  Principal3    = {{flagicon|BEL}} [[Andreas Wauters]] |
+  Debut3        = Not yet |
+}}
+
+'''Wauters Automotive''' is a Belgian Simracing team founded and owned by [[Andreas Wauters]] which currently competes in the [[2013 Formula Challenge season]].
+
+==Complete Simracing results==
+
+===Complete Formula Challenge results===
+
+([[:Template:F1 driver results legend 2|key]]) (Races in '''bold''' indicate pole position, races in ''italics'' indicate fastest lap)
+
+{| class="wikitable" border="1" style="text-align:center; font-size:90%;"
+! rowspan=2| Year
+! rowspan=2| Chassis
+! rowspan=2| Drivers
+!  1
+!  2
+!  3
+!  4
+!  5
+!  6
+!  7
+!  8
+!  9
+! 10
+! 11
+! 12
+! 13
+! 14
+! 15
+! 16
+! 17
+! 18
+! 19
+! 20
+! 21
+! 22
+! 23
+! 24
+! 25
+! 26
+! 27
+! 28
+! 29
+! 30
+! 31
+! 32
+! 33
+! 34
+! 35
+! 36
+! rowspan=2| Pos.
+! rowspan=2| Pts.
+! rowspan=2| Pos.
+! rowspan=2| Pts.
+|-
+!colspan=2| [[2013 Challenge Australian Grand Prix|AUS]]<br />{{flagicon|AUS}}
+!colspan=2| [[2013 Challenge Malaysian Grand Prix|MYS]]<br />{{flagicon|MYS}}
+!colspan=2| [[2013 Challenge Austrian Grand Prix|AUT]]<br />{{flagicon|AUT}}
+!colspan=2| [[2013 Challenge Hungarian Grand Prix|HUN]]<br />{{flagicon|HUN}}
+!colspan=2| [[2013 Challenge Spanish Grand Prix|ESP]]<br />{{flagicon|ESP}}
+!colspan=2| [[2013 Challenge Monaco Grand Prix|MON]]<br />{{flagicon|MON}}
+!colspan=2| [[2013 Challenge Canadian Grand Prix|CAN]]<br />{{flagicon|CAN}}
+!colspan=2| [[2013 Challenge Korean Grand Prix|KOR]]<br />{{flagicon|KOR}}
+!colspan=2| [[2013 Challenge Turkish Grand Prix|TUR]]<br />{{flagicon|TUR}}
+!colspan=2| [[2013 Challenge British States Grand Prix|GBR]]<br />{{flagicon|UK}}
+!colspan=2| [[2013 Challenge Italian African Grand Prix|ITA]]<br />{{flagicon|ITA}}
+!colspan=2| [[2013 Challenge Belgian Grand Prix|BEL]]<br />{{flagicon|BEL}}
+!colspan=2| [[2013 Challenge French Grand Prix|FRA]]<br />{{flagicon|FRA}}
+!colspan=2| [[2013 Challenge German Grand Prix|GER]]<br />{{flagicon|GER}}
+!colspan=2| [[2013 Challenge United States Grand Prix|USA]]<br />{{flagicon|USA}}
+!colspan=2| [[2013 Challenge Abu Dhabi Prix|UAE]]<br />{{flagicon|UAE}}
+!colspan=2| [[2013 Challenge Japanese Prix|JPN]]<br />{{flagicon|JPN}}
+!colspan=2| [[2013 Challenge Brazilian Grand Prix|BRA]]<br />{{flagicon|BRA}}
+|-
+|rowspan=8|[[2013 Formula Challenge season|'''2013''']]
+|rowspan=8|'''FC-013'''
+! [[Mike Schroten]]
+|bgcolor="#dfffdf"|12
+|bgcolor="#dfffdf"|5
+|bgcolor="#dfffdf"|12
+|bgcolor="#dfffdf"|8
+|bgcolor="#dfffdf"|14
+|bgcolor="#cfcfff"|18
+|bgcolor="#cfcfff"|21
+|bgcolor="#cfcfff"|17
+|bgcolor="#cfcfff"|24
+|bgcolor="#dfffdf"|8
+|bgcolor="#efcfff"|Ret
+|bgcolor="#dfffdf"|10
+|bgcolor="#ffdf9f"|3
+|bgcolor="#dfffdf"|9
+|bgcolor="#FFFFFF"|-
+|bgcolor="#FFFFFF"|-
+|bgcolor="#dfffdf"|14
+|bgcolor="#efcfff"|Ret
+|bgcolor="#dfffdf"|10
+|bgcolor="#dfffdf"|5
+|bgcolor="#FFFFFF"|-
+|bgcolor="#FFFFFF"|-
+|bgcolor="#FFFFFF"|-
+|bgcolor="#FFFFFF"|-
+|bgcolor="#dfffdf"|9
+|bgcolor="#dfffdf"|11
+|bgcolor="#FFFFFF"|-
+|bgcolor="#FFFFFF"|-
+|bgcolor="#efcfff"|Ret
+|bgcolor="#cfcfff"|20
+|bgcolor="#FFFFFF"|-
+|bgcolor="#FFFFFF"|-
+|bgcolor="#cfcfff"|22
+|bgcolor="#efcfff"|Ret
+|bgcolor="#cfcfff"|29
+|bgcolor="#efcfff"|Ret
+|'''16th'''
+|'''97'''
+|rowspan=8|'''8th'''
+|rowspan=8|'''161'''
+|-
+! [[Calvin Hermse]]
+|bgcolor="#cfcfff"|17
+|bgcolor="#FFFFFF"|DNS
+|bgcolor="#dfffdf"|13
+|bgcolor="#cfcfff"|24
+|bgcolor="#cfcfff"|24
+|bgcolor="#efcfff"|Ret
+|bgcolor="#dfffdf"|13
+|bgcolor="#dfffdf"|12
+|bgcolor="#FFFFFF"|-
+|bgcolor="#FFFFFF"|-
+|bgcolor="#cfcfff"|21
+|bgcolor="#cfcfff"|17
+|bgcolor="#dfffdf"|14
+|bgcolor="#efcfff"|Ret
+|bgcolor="#cfcfff"|18
+|bgcolor="#cfcfff"|23
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|'''57th'''
+|'''12'''
+|-
+! [[Daniï¿½l Leek]]
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#dfffdf"|13
+|bgcolor="#dfffdf"|12
+|bgcolor="#cfcfff"|24
+|bgcolor="#cfcfff"|21
+|bgcolor="#FFFFFF"|-
+|bgcolor="#FFFFFF"|-
+|bgcolor="#FFFFFF"|-
+|bgcolor="#FFFFFF"|-
+|bgcolor="#efcfff"|Ret
+|bgcolor="#cfcfff"|27
+|bgcolor="#cfcfff"|26
+|bgcolor="#efcfff"|Ret
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|'''67th'''
+|'''7'''
+|-
+! [[Ilija Brekalo]]
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#cfcfff"|20
+|bgcolor="#cfcfff"|21
+|bgcolor="#cfcfff"|21
+|bgcolor="#cfcfff"|17
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|'''88th'''
+|'''0'''
+|-
+! [[Todor Pangev]]
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#efcfff"|Ret
+|bgcolor="#cfcfff"|18
+|bgcolor="#dfffdf"|10
+|bgcolor="#efcfff"|Ret
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|'''69th'''
+|'''6'''
+|-
+! [[Franklin Stegink]]
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#cfcfff"|24
+|bgcolor="#cfcfff"|19
+|bgcolor="#cfcfff"|16
+|bgcolor="#dfffdf"|9
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|'''65th'''
+|'''7'''
+|-
+! [[Victor Silva]]
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#cfcfff"|19
+|bgcolor="#cfcfff"|23
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|'''60th*'''
+|'''0*'''
+|-
+! [[James Johnson]]
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#FFFFFF"|
+|bgcolor="#dfffdf"|7
+|bgcolor="#dfdfdf"|2
+|'''26th**'''
+|'''29**'''
+|-
+|}
+
+
+* Victor Silva Scored a total of '''9''' points over 8 races in the 2013 season, but none for Wauters 
+** James Johnson Scored a total of '''53''' points over 4 races in the 2013 season, from which 29 were scored while driving for Wauters in Brazil.
+
+
+[[Category:Constructors]]

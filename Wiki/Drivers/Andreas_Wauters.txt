@@ -1,4 +1,4 @@
-{{Float box| {{Infobox driver |
+﻿{{Float box| {{Infobox driver |
 Name            = {{flagicon|BEL}} Andreas Wauters |
 Image           = [[File:Andreas Wauters helmet.png|250px]] |
 Nationality     = {{flagicon|BEL}} Belgian |
