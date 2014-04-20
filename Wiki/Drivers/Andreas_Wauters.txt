@@ -1,0 +1,323 @@
+{{Float box| {{Infobox driver |
+Name            = {{flagicon|BEL}} Andreas Wauters |
+Image           = [[File:Andreas Wauters helmet.png|250px]] |
+Nationality     = {{flagicon|BEL}} Belgian |
+JoinYear        = 2012 |
+FirstRace       = [[2012 Challenge Irish Grand Prix]] |
+Series          = Supercup |
+Team(s)         = [[Fox Racing]] |
+}}
+| {{Infobox driver stats |
+Name            = {{flagicon|BEL}} Andreas Wauters |
+Image           = |
+Series          = Supercup |
+Updated         = March 2013 |
+DebutYear       = 2013 |
+First race      = |
+Team(s)         = [[Fox Racing]] |
+Races           = 1 |
+Championships   = 0 |
+Wins            = 0 |
+Podiums         = 0 |
+Poles           = 0 |
+Fastest laps    = 0 |
+}}
+| {{Infobox driver stats |
+Name            = {{flagicon|BEL}} Andreas Wauters |
+Image           = |
+Series          = Formula Challenge |
+Updated         = December 2012 |
+DebutYear       = 2012 |
+First race      = [[2012 Challenge Irish Grand Prix]] |
+Team(s)         = [[Wicked Fox Racing]] |
+Races           = 4 |
+Championships   = 0 |
+Wins            = 0 |
+Podiums         = 0 |
+Poles           = 0 |
+Fastest laps    = 0 |
+}}
+| {{Infobox driver stats |
+Name            = {{flagicon|BEL}} Andreas Wauters |
+Image           = |
+Series          = World GT |
+Updated         = December 2012 |
+DebutYear       = 2012 |
+First race      =  |
+Team(s)         = [[Racing Team Schroten]] |
+Races           = 0 |
+Championships   = 0 |
+Wins            = 0 |
+Podiums         = 0 |
+Poles           = 0 |
+Fastest laps    = 0 |
+}}
+|
+}}
+
+'''Andreas Wauters''' is a Belgian sim-racer who currently drives for [[Fox Racing]] in the GPVWC [[Supercup]]. He made his GPVWC debut in the latter stages of the [[2012 Formula Challenge season|2012]] [[Formula Challenge]] season.. He went on to compete in the [[World GT]] series for [[Racing Team Schroten]].
+
+==Early Sim-Racing Career==
+{{placeholder}}
+
+
+==Supercup==
+
+===2013===
+Andreas will race for [[Fox Racing]] in the [[2013 Supercup season|2013]] Supercup season.
+
+==Formula Challenge==
+
+===2012===
+Andreas competed for [[Wicked Fox Racing]] in the latter stages of the season, making his debut at [[2012 Challenge Irish Grand Prix|Mondello Park]].
+
+==World GT==
+
+===2012===
+{{placeholder}}
+
+==Racing Career Results==
+
+===Supercup===
+([[:Template:F1 driver results legend 2|key]]) (Races in '''bold''' indicate pole position, races in ''italics'' indicate fastest lap)
+
+{| class="wikitable" border="1" style="text-align:center; font-size:90%;"
+! Year
+! Team
+! Chassis
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! 9
+! 10
+! 11
+! 12
+! 13
+! 14
+! 15
+! 16
+! 17
+! 18
+! WDC
+! Points
+|-
+|[[2013 Supercup season|2013]]
+! [[Fox Racing]]
+|'''SC-013'''
+|bgcolor="#efcfff"|{{flagicon|AUS}}
+<small>Ret</small>
+|bgcolor="#cfcfff"|{{flagicon|MYS}}
+<small>20</small>
+|bgcolor="#DFFFDF"|{{flagicon|AUT}}
+<small>15</small>
+|bgcolor="#cfcfff"|{{flagicon|HUN}}
+<small>16</small>
+|bgcolor="#efcfff"|{{flagicon|ESP}}
+<small>Ret</small>
+|bgcolor="#FFFFFF"|{{flagicon|MON}}
+<small>-</small>
+|bgcolor="#FFFFFF"|{{flagicon|CAN}}
+<small>-</small>
+|bgcolor="#FFFFFF"|{{flagicon|KOR}}
+<small>-</small>
+|bgcolor="#FFFFFF"|{{flagicon|TUR}}
+<small>-</small>
+|bgcolor="#DFFFDF"|{{flagicon|UK}}
+<small>15</small>
+|bgcolor="#cfcfff"|{{flagicon|ITA}}
+<small>18</small>
+|bgcolor="#DFFFDF"|{{flagicon|BEL}}
+<small>11</small>
+|bgcolor="#FFFFFF"|{{flagicon|FRA}}
+<small>-</small>
+|bgcolor="#FFFFFF"|{{flagicon|GER}}
+<small>-</small>
+|bgcolor="#FFFFFF"|{{flagicon|USA}}
+<small>-</small>
+|bgcolor="#FFFFFF"|{{flagicon|UAE}}
+<small>-</small>
+|bgcolor="#FFFFFF"|{{flagicon|JPN}}
+<small>-</small>
+|bgcolor="#FFFFFF"|{{flagicon|BRA}}
+<small>-</small>
+|bgcolor="#FFFFFF"|'''36th'''
+|bgcolor="#FFFFFF"|'''7'''
+|}
+{{sup|†}} Driver did not finish the Grand Prix, but was classified as they completed over 75% of the race distance.
+
+===Formula Challenge===
+([[:Template:F1 driver results legend 2|key]]) (Races in '''bold''' indicate pole position, races in ''italics'' indicate fastest lap)
+
+{| class="wikitable" border="1" style="text-align:center; font-size:90%;"
+! Year
+! Team
+! Chassis
+| 1
+| 2
+| 3
+| 4
+| 5
+| 6
+| 7
+| 8
+| 9
+| 10
+| 11
+| 12
+| 13
+| 14
+| 15
+| 16
+| 17
+| 18
+| 19
+| 20
+| 21
+| 22
+| 23
+| 24
+| 25
+| 26
+| 27
+| 28
+| 29
+| 30
+! WDC
+! Points
+|-
+|[[2012 Formula Challenge season|2012]]
+! [[Wicked Fox Racing]]
+|'''FC-012'''
+|bgcolor="#FFFFFF"|{{flagicon|UK}}
+FEA<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|UK}}
+SPR<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|NED}}
+FEA<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|NED}}
+SPR<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|ITA}}
+FEA<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|ITA}}
+SPR<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|SLV}}
+FEA<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|SLV}}
+SPR<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|MYS}}
+FEA<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|MYS}}
+SPR<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|JPN}}
+FEA<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|JPN}}
+SPR<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|AUS}}
+FEA<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|AUS}}
+SPR<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|BRA}}
+FEA<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|BRA}}
+SPR<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|MEX}}
+FEA<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|MEX}}
+SPR<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|USA}}
+FEA<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|USA}}
+SPR<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|RSA}}
+FEA<br>
+<br>
+|bgcolor="#FFFFFF"|{{flagicon|RSA}}
+SPR<br>
+<br>
+|bgcolor="#CFCFFF"|{{flagicon|ROI}}
+FEA<br>
+<small>18</small>
+|bgcolor="#CFCFFF"|{{flagicon|ROI}}
+SPR<br>
+<small>17</small>
+|bgcolor="#FFFFFF"|{{flagicon|FRA}}
+FEA<br>
+<small>-</small>
+|bgcolor="#FFFFFF"|{{flagicon|FRA}}
+SPR<br>
+<small>-</small>
+|bgcolor="#DFFFDF"|{{flagicon|ESP}}
+FEA<br>
+<small>15</small>
+|bgcolor="#DFFFDF"|{{flagicon|ESP}}
+SPR<br>
+<small>12</small>
+|bgcolor="#FFFFFF"|{{flagicon|SIN}}
+FEA<br>
+<small>C</small>
+|bgcolor="#FFFFFF"|{{flagicon|SIN}}
+SPR<br>
+<small>C</small>
+|bgcolor="#FFFFFF"|'''64th'''
+|bgcolor="#FFFFFF"|'''5'''
+|}
+{{sup|†}} Driver did not finish the Grand Prix, but was classified as they completed over 75% of the race distance.
+
+===World GT===
+([[:Template:F1 driver results legend 2|key]]) (Races in '''bold''' indicate pole position, races in ''italics'' indicate fastest lap)
+
+{| class="wikitable" border="1" style="text-align:center; font-size:90%;"
+! Year
+! Team
+! Car
+! 1
+! 2
+! 3
+! 4
+! WDC
+! Points
+|-
+|[[2012 Winter GT Series season|2012]]
+! [[Racing Team Schroten]]
+| '''Ford GT'''
+|bgcolor="#efcfff"|{{flagicon|BRA}}
+<small>Ret</small>
+|bgcolor="#ffffff"|{{flagicon|BEL}}
+<small>-</small>
+|bgcolor="#cfcfff"|{{flagicon|JPN}}
+<small>20</small>
+|bgcolor="#ffffff"|{{flagicon|USA}}
+<small>-</small>
+|bgcolor="#FFFFFF"|'''31st'''
+|bgcolor="#FFFFFF"|'''0'''
+|}
+{{sup|†}} Driver did not finish the Grand Prix, but was classified as they completed over 75% of the race distance.
+
+
+[[Category:Drivers|Wauters, Andreas]]
+[[Category:Andreas Wauters]]
