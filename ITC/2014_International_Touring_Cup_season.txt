@@ -1,0 +1,2016 @@
+{{Infobox ITC season
+| Image = [[File:GPVWC Banner 2013.png|300px]]  |
+| Platform = [[File:rFactor.png|15px]] [[rFactor]] v1.255 |
+| Rounds = 8 |
+| Mod = Custom |
+| Engines = BMW, Lexus, Vauxhall, Ford |
+| Tyres = GPVWC |
+| Drivers = - | 
+| Teams = 21 | 
+| Drivers_Champion = -  |
+| Teams_Champion = [[THR]]  |
+}}
+The '''2013/14 International Touring Cup season''' is the debut [[Grand Prix Virtual World Championship|GPVWC]] [[International Touring Cup]] season. The series is the continuation of fellow league Gentlemens Racing Club's most prominent series, the GRC Touring Car Championship, following the league's closure in late 2013. The initial season is seeing twenty teams participate making it the fourth series in GPVWC history to enforce a participant cap. [[Torrent Motorsports]] enters the season as spiritual Team's title defendants after securing the RWD title in GRCTCC Season 14, with [[Toby Davis]] as spiritual Driver's title defendant after winning the accolade in the RWD category of GRCTCC Season 14.
+
+==Report==
+
+===Race Weekend Format===
+
+19:00 GMT ~ Free Practice<br>
+19:30 GMT ~ Qualifying<br>
+19:50 GMT ~ Warmup<br>
+20:00 GMT ~ Race One Start<br>
+20:20 GMT ~ Warmup<br>
+20:30 GMT ~ Race Two Start<br>
+20:50 GMT ~ Warmup<br>
+21:00 GMT ~ Race Three Start
+
+==Teams and drivers==
+
+{| class="wikitable" border="1" style="font-size: 85%;"
+!ITC Team
+!Base
+!Constructor
+!Tyre
+!{{Tooltip|No.|Car number}}{{sup|†}} 
+!Race Drivers
+!Rounds
+|-
+|rowspan=4| {{flagicon|USA}} [[Torrent Motorsports]]
+|rowspan=4| {{flagicon|USA}} United States
+!rowspan=4| [[Torrent]]
+|rowspan=4 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=3| 0
+| {{flagicon|AUS}} [[Harley Hamnett]]
+| 1-2, 4-5, 10-11
+|-
+| {{flagicon|DEN}} [[Morten Wernersen]]
+| 7-9
+|-
+| {{flagicon|ENG}} [[Jordan Weekes]]
+| 16-21
+|-
+| align="center"| 2
+| {{flagicon|SWE}} [[Martin Palm]]
+| 1-21
+|-
+|rowspan=3| {{flagicon|ENG}} [[THR]]
+|rowspan=3| {{flagicon|ENG}} England
+!rowspan=3| [[THR]]
+|rowspan=3 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=2| 3
+| {{flagicon|ENG}} [[Toby Davis]]
+| 1-18
+|-
+| {{flagicon|SWI}} [[David Jundt]]
+| 19-21
+|-
+| align="center" rowspan=1| 4
+| {{flagicon|SWE}} [[Adrian Holm]]
+| 1-21
+|-
+|rowspan=3| {{flagicon|CRO}} [[Triple Twenty]]
+|rowspan=3| {{flagicon|CRO}} Croatia
+!rowspan=3| [[TT]]
+|rowspan=3 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=2| 5
+| {{flagicon|CRO}} [[Ilija Brekalo]]
+| 2-3, 10-12, 16-21
+|-
+| {{flagicon|USA}} [[Sven de Vries]]
+| 4-9, 13-15
+|-
+| align="center" rowspan=1| 6
+| {{flagicon|BEL}} [[Bart De Vos]]
+| 1-21
+|-
+|rowspan=2| {{flagicon|ENG}} [[TheSixthAxis Racing]]
+|rowspan=2| {{flagicon|ENG}} England
+!rowspan=2| [[TSA]]
+|rowspan=2 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=1| 7
+| {{flagicon|ENG}} [[Michael Ballard]]
+| 1-21
+|-
+| align="center"| 8
+| {{flagicon|ENG}} [[Matthew Williams]]
+| 1-21
+|-
+|rowspan=5| {{flagicon|ENG}} [[TTF Racing]]
+|rowspan=5| {{flagicon|ENG}} England
+!rowspan=5| [[TTF]]
+|rowspan=5 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=2| 9
+| {{flagicon|ENG}} [[Tyrone Frith]]
+| 1-9, 16-18
+|-
+| {{flagicon|USA}} [[Sven de Vries]]
+| 10-12
+|-
+| align="center" rowspan=3| 10
+| {{flagicon|FIN}} [[Teemu Toikka]]
+| 1-3
+|-
+| {{flagicon|NED}} [[Menno Klont]]
+| 4-15
+|-
+| {{flagicon|USA}} [[Sven de Vries]]
+| 16-21
+|-
+|rowspan=3| {{flagicon|ENG}} [[TheSixthAxis Racing|Playseat® Racing]]
+|rowspan=3| {{flagicon|NED}} Netherlands
+!rowspan=3| [[TSA|Playseat®]]
+|rowspan=3 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=2| 11
+| {{flagicon|ENG}} [[Philip Morby]]
+| 1-3, 13-15
+|-
+| {{flagicon|ENG}} [[Cameron Brewster]]
+| 4-12, 16-21
+|-
+| align="center" rowspan=1| 12
+| {{flagicon|ENG}} [[Thomas Jacobs]]
+| 1-21
+|-
+|rowspan=5| {{flagicon|NOR}} [[Ice Cold Racing]] <sup>2</sup>
+|rowspan=5| {{flagicon|NOR}} Norway
+!rowspan=5| [[Ice Cold]]
+|rowspan=5 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=3| 14
+| {{flagicon|SWE}} [[Eric Stranne]]
+| 10-18
+|-
+| {{flagicon|ENG}} [[Lee Palmer]]
+| 19
+|-
+| {{flagicon|GER}} [[Robert Wiesenmueller]]
+| 20-21
+|-
+| align="center" rowspan=2| 15
+| {{flagicon|NED}} [[Lars Brugman]]
+| 10-11
+|-
+| {{flagicon|NOR}} [[Erik Tveit]]
+| 13, 16-20
+|-
+|rowspan=2| {{flagicon|WAL}} [[Airastream]] <sup>1</sup>
+|rowspan=2| {{flagicon|WAL}} Wales
+!rowspan=2| [[Airastream]]
+|rowspan=2 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=1| 16
+| {{flagicon|WAL}} [[Matt Richards]]
+| 4-21
+|-
+| align="center" rowspan=1| 17
+| {{flagicon|NOR}} [[Scott Sovik]]
+| 4-10, 12-21
+|-
+|rowspan=3| {{flagicon|ENG}} [[TWR]]
+|rowspan=3| {{flagicon|ENG}} England
+!rowspan=3| [[TWR]]
+|rowspan=3 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=2| 18
+| {{flagicon|WAL}} [[Matt Richards]]
+| 1-3
+|-
+| {{flagicon|MLT}} [[Jason Muscat]]
+| 4-21
+|-
+| align="center"| 19
+| {{flagicon|ENG}} [[Paul Watkins]]
+| 1-21
+|-
+|rowspan=3| {{flagicon|ENG}} [[Hawkeye Racing]]
+|rowspan=3| {{flagicon|ENG}} England
+|rowspan=3 align='center'| '''[[Hawkeye]]'''
+|rowspan=3 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=2| 20
+| {{flagicon|ENG}} [[Jordan Weekes]]
+| 1-11
+|-
+| {{flagicon|ENG}} [[Phillip Morby]]
+| 19-21
+|-
+| align="center" rowspan=1| 21
+| {{flagicon|ENG}} [[Mark Wicks]]
+| 1-21
+|-
+|rowspan=2| {{flagicon|NED}} [[Racing Team Schroten]]
+|rowspan=2| {{flagicon|NED}} Netherlands
+!rowspan=2| [[RTS]]
+|rowspan=2 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=1| 22
+| {{flagicon|ENG}} [[Simon Melhuish]]
+| 1-21
+|-
+| align="center" rowspan=1| 23
+| {{flagicon|ENG}} [[Chris Williamson]]
+| 1-21
+|-
+|rowspan=2| {{flagicon|ENG}} [[Optimum SimRacing]]
+|rowspan=2| {{flagicon|ENG}} England
+!rowspan=2| [[Optimum]]
+|rowspan=2 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=1| 24
+| {{flagicon|TAI}} [[Juen-Jen Wang]]
+| 4-6, 10-12, 16-21
+|-
+| align="center" rowspan=1| 25
+| {{flagicon|SWE}} [[Jonatan Acerclinth]]
+| 1-21
+|-
+|rowspan=6| {{flagicon|GER}} [[Green Stripes Racing]]
+|rowspan=6| {{flagicon|GER}} Germany
+!rowspan=6| [[GSR]]
+|rowspan=6 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=2| 26
+| {{flagicon|SCO}} [[Paul Joseph]]
+| 1-6, 10-21
+|-
+| {{flagicon|GER}} [[Robert Wiesenmueller]]
+| 9
+|-
+| align="center" rowspan=4| 27
+| {{flagicon|ENG}} [[Matt Clipp]]
+| 1-3
+|-
+| {{flagicon|GER}} [[Christoph Lichtenstein]]
+| 4-12
+|-
+| {{flagicon|GER}} [[Robert Wiesenmueller]]
+| 13-18
+|-
+| {{flagicon|NED}} [[Menno Klont]]
+| 19-20
+|-
+|rowspan=4| {{flagicon|ENG}} [[Enterprise GP]]
+|rowspan=4| {{flagicon|ENG}} England
+!rowspan=4| [[Enterprise GP|EGP]]
+|rowspan=4 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=3| 28
+| {{flagicon|ENG}} [[Scott Berrisford]]
+| 1-3
+|-
+| {{flagicon|ENG}} [[Tom Parker]]
+| 4-17
+|-
+| {{flagicon|DEN}} [[Jesper Taulborg]]
+| 19-21
+|-
+| align="center"| 29
+| {{flagicon|ENG}} [[Ben Hackeson]]
+| 1-21
+|-
+|rowspan=9| {{flagicon|ENG}} [[Woods Racing]]
+|rowspan=9| {{flagicon|ENG}} England
+!rowspan=9| [[Woods]]
+|rowspan=9 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=6| 30
+| {{flagicon|ENG}} [[Oscar Hardwick]]
+| 1-6
+|-
+| {{flagicon|FIN}} [[Oskari Kantonen]]
+| 7-9
+|-
+| {{flagicon|ENG}} [[Dave Carr-Smith]]
+| 10-12
+|-
+| {{flagicon|FIN}} [[Mikko Suokas]]
+| 13-15
+|-
+| {{flagicon|FIN}} [[Teemu Toikka]]
+| 16-18
+|-
+| {{flagicon|ENG}} [[Kyle Williams]]
+| 19-21
+|-
+| align="center" rowspan=3| 31
+| {{flagicon|ENG}} [[Scott Bennett]]
+| 1-3
+|-
+| {{flagicon|USA}} [[Brandon Warren]]
+| 4-6
+|-
+| {{flagicon|ENG}} [[James Kirk]]
+| 7-20
+|-
+|rowspan=7| {{flagicon|BEL}} [[Wauters Automotive]]
+|rowspan=7| {{flagicon|BEL}} Belgium
+!rowspan=7| [[Wauters]]
+|rowspan=7 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=3|  32
+| {{flagicon|BEL}} [[Nico de Koninck]]
+| 1-3, 7-12
+|-
+| {{flagicon|NED}} [[Mike Schroten]]
+| 4-6, 13-15
+|-
+| {{flagicon|NED}} [[Roy Schroten]]
+| 16-21
+|-
+| align="center" rowspan=4| 33
+| {{flagicon|NED}} [[Calvin Hermse]]
+| 1-3
+|-
+| {{flagicon|BEL}} [[Kenney Lybeer]]
+| 4-9, 13-18
+|-
+| {{flagicon|NED}} [[Tom van der Voort]]
+| 10-12
+|-
+| {{flagicon|BEL}} [[Nico de Koninck]]
+| 19-21
+|-
+|rowspan=3| {{flagicon|NED}} [[Measuric Racing]]
+|rowspan=3| {{flagicon|NED}} Netherlands
+!rowspan=3| [[Measuric]]
+|rowspan=3 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=2| 34
+| {{flagicon|FIN}} [[Janne Väänänen]]
+| 1-15
+|-
+| {{flagicon|NED}} [[Alexander van der Woude]]
+| 16-21
+|-
+| align="center"| 35
+| {{flagicon|ENG}} [[Joshua Anderson]]
+| 1, 3, 10-19
+|-
+|rowspan=7| {{flagicon|ENG}} [[Vod:Bul Racing]]
+|rowspan=7| {{flagicon|ENG}} England
+!rowspan=7| [[Vod:Bul]]
+|rowspan=7 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=4| 36
+| {{flagicon|NED}} [[Jos Friemann]]
+| 1-5
+|-
+| {{flagicon|FIN}} [[Mikko Suokas]]
+| 7-12
+|-
+| {{flagicon|NED}} [[Douwe Tapper]]
+| 13-15
+|-
+| {{flagicon|NED}} [[Ruud Heesterbeek]]
+| 16-21
+|-
+| align="center" rowspan=3| 37
+| {{flagicon|ARG}} [[Agustin Canapino]]
+| 1-6
+|-
+| {{flagicon|NED}} [[Roy Schroten]]
+| 7-9
+|-
+| {{flagicon|FIN}} [[Oskari Kantonen]]
+| 10-18
+|-
+|rowspan=3| {{flagicon|ENG}} [[Aurora Motorsports]]
+|rowspan=3| {{flagicon|ENG}} England
+!rowspan=3| [[Aurora]]
+|rowspan=3 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=1| 38
+| {{flagicon|ENG}} [[Lewis McGlade]]
+| 1-21
+|-
+| align="center" rowspan=2| 39
+| {{flagicon|ENG}} [[Mike Bell]]
+| 1-3, 7-21
+|-
+| {{flagicon|ENG}} [[David Carter]]
+| 4-6
+|-
+|rowspan=5| {{flagicon|ENG}} [[YTF1]]
+|rowspan=5| {{flagicon|ENG}} England
+!rowspan=5| [[YTF1]]
+|rowspan=5 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=1| 40
+| {{flagicon|FIN}} [[Mikael Tuomaala]]
+| 1, 3-21
+|-
+| align="center" rowspan=4| 41
+| {{flagicon|FIN}} [[Tommi Koivunen]]
+| 1-6
+|-
+| {{flagicon|NED}} [[Sven Smits]]
+| 7
+|-
+| {{flagicon|ENG}} [[Matthew Allington]]
+| 9
+|-
+| {{flagicon|DEN}} [[Morten Wernersen]]
+| 10-21
+|-
+|}
+* <sup>1</sup> [[Storm Racing Team]] initially lodged an entry in the championship, but withdrew prior to the first round. Their slot was taken over by [[Airastream]] from the [[Portuguese Touring Cup]] onwards.
+* <sup>2</sup> [[SlipStream Racing]] were original holders of the numbers #14 and #15 cars. However, due to a lack of commitment to the series (having only partaken in two races with one driver), they were replaced by [[Ice Cold Racing]] from the [[British Touring Cup]] onwards.
+
+==2013/2014 Calendar==
+
+{| class="wikitable" border="1" style="font-size: 85%"
+|-
+!rowspan="2"| Round
+!rowspan="2"| Race Title
+!rowspan="2"| Event
+!rowspan="2"| [[List of GPVWC circuits|Circuit]]
+!rowspan="2"| Conditions
+!rowspan="2"| Mod
+!rowspan="2"| Date{{sup|†}}
+!colspan="2"| Time
+|-
+! Laps
+! GMT/BST
+|-
+! 1
+| [[San Marino Touring Cup]]
+| [[2013 San Marino Touring Cup]]
+| {{flagicon|SAN}} [[Autodromo Internazionale Enzo e Dino Ferrari]], Imola
+| [[File:Sunny_spells.png|25px|Sunny_spells]] Dry
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 28th October
+| 10/10
+| 19:00
+|-
+! 2
+| [[Portuguese Touring Cup]]
+| [[2013 Portuguese Touring Cup]]
+| {{flagicon|POR}} [[Circuito Vasco Sameiro]], Palmeira
+| [[File:Sunny_spells.png|25px|Sunny_spells]] Dry
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 11th November
+| 15/15
+| 19:00
+|-
+! 3
+| [[Finnish Touring Cup]]
+| [[2013 Finnish Touring Cup]]
+| {{flagicon|FIN}} [[Botniaring Racing Circuit]], Jurva
+| [[File:Sunny_spells.png|25px|Sunny_spells]] Dry
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 25th November
+| 18/18
+| 19:00
+|-
+! 4
+| [[British Touring Cup]]
+| [[2013 British Touring Cup]]
+| {{flagicon|UK}} [[Snetterton Motor Racing Circuit]], Snetterton
+| [[File:Sunny_spells.png|25px|Sunny_spells]] Dry
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 9th December
+| 14/14
+| 19:00
+|-
+! 5
+| [[Canadian Touring Cup]]
+| [[2013 Canadian Touring Cup]]
+| {{flagicon|CAN}} [[Circuit Gilles Villeneuve]], Montreal
+| [[File:Sunny_spells.png|25px|Sunny_spells]] Dry
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 13th January
+| 11/11
+| 19:00
+|-
+! 6
+| [[American Touring Cup]]
+| [[2013 American Touring Cup]]
+| {{flagicon|USA}} [[Watkins Glen International]], Watkins Glen
+| [[File:Sunny_spells.png|25px|Sunny_spells]] Dry
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 27th January
+| 12/12
+| 19:00
+|-
+! 7
+| [[Australian Touring Cup]]
+| [[2013 Australian Touring Cup]]
+| {{flagicon|AUS}} [[Troyton Raceway]]
+| [[File:Sunny.png|25px|Sunny]] Dry
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 10th February
+| 11/11
+| 19:00
+|-
+! 8
+| [[Japanese Touring Cup]]
+| [[2013 Japanese Touring Cup]]
+| {{flagicon|JPN}} [[Sportsland SUGO]], Murata
+| [[File:Sunny_spells.png|25px|Sunny_spells]] Dry
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 24th February
+| 13/13
+| 19:00
+|-
+|}
+
+{{sup|†}} Dates subject to change.
+
+==Results and standings==
+===Rounds===
+{| class="wikitable" style="font-size:85%"
+! colspan=2| Round
+! Event
+! Pole Position
+! <small>Pole Time</small>
+! Fastest Lap
+! <small>F/L Time</small>
+! Winning driver
+! Winning team
+! Report
+|-
+{{ITC Round|2013|1|1|2|3|SAN|San Marino|
+|p={{ENG}} [[Toby Davis]]|pt=1:56.180
+|r1f={{ENG}} [[Toby Davis]]|     r1ft=1:56.179| r1w={{ARG}} [[Agustín Canapino]]| r1wc={{ENG}} [[Vod:Bul Racing ITC|Vod:Bul Racing]]
+|r2f={{ENG}} [[Oscar Hardwick]]| r2ft=1:56.549| r2w={{ENG}} [[Toby Davis]]|       r2wc={{ENG}} [[THR]]
+|r3f={{ENG}} [[Oscar Hardwick]]| r3ft=1:56.250| r3w={{ENG}} [[Thomas Jacobs]]|    r3wc={{ENG}} [[Playseat® Racing]]
+}}
+{{ITC Round|2013|2|4|5|6|POR|Portuguese|
+|p={{flagicon|SWE}} [[Adrian Holm]]|pt=1:22.603
+|r1f={{flagicon|SWE}} [[Adrian Holm]] | r1ft=1:22.967| r1w={{flagicon|SWE}} [[Adrian Holm]]| r1wc={{ENG}} [[THR]]
+|r2f={{flagicon|ENG}} [[Toby Davis]] | r2ft=1:22.507| r2w={{flagicon|SWE}} [[Adrian Holm]]| r2wc={{ENG}} [[THR]]
+|r3f={{flagicon|ENG}} [[Oscar Hardwick]] | r3ft=1:22.609| r3w={{flagicon|ENG}} [[Oscar Hardwick]]| r3wc={{ENG}} [[Woods Racing]]
+}}
+{{ITC Round|2013|3|7|8|9|FIN|Finnish|
+|p={{flagicon|BEL}} [[Bart De Vos]]|pt=1:12.561
+|r1f={{flagicon|BEL}} [[Bart De Vos]] | r1ft=1:12.518| r1w={{flagicon|BEL}} [[Bart De Vos]]| r1wc={{flagicon|CRO}} [[Triple Twenty]]
+|r2f={{flagicon|ENG}} [[Toby Davis]] | r2ft=1:12.769| r2w={{flagicon|ENG}} [[Toby Davis]]| r2wc={{ENG}} [[THR]]
+|r3f={{flagicon|ENG}} [[Jordan Weekes]] | r3ft=1:12.741| r3w={{flagicon|WAL}} [[Matt Richards]]| r3wc={{flagicon|WAL}} [[Airastream]]
+}}
+{{ITC Round|2013|4|10|11|12|UK|British|
+|p={{flagicon|ENG}} [[Dave Carr-Smith]]|pt=1:11.821
+|r1f={{flagicon|ENG}} [[Dave Carr-Smith]] | r1ft=1:11.971| r1w={{flagicon|ENG}} [[Dave Carr-Smith]]| r1wc={{flagicon|ENG}} [[Woods Racing]]
+|r2f={{flagicon|SWE}} [[Eric Stranne]] | r2ft=1:12.025| r2w={{flagicon|SWE}} [[Eric Stranne]]| r2wc={{flagicon|NOR}} [[Ice Cold Racing]]
+|r3f={{flagicon|ENG}} [[Toby Davis]] | r3ft=1:11.534| r3w={{flagicon|ENG}} [[Toby Davis]]| r3wc={{flagicon|ENG}} [[THR]]
+}}
+{{ITC Round|2013|5|13|14|15|CAN|Canadian|
+|p={{flagicon|BEL}} [[Bart De Vos]]|pt=1:50.128
+|r1f={{flagicon|ENG}} [[Tom Parker]] | r1ft=1:50.094| r1w={{flagicon|BEL}} [[Bart De Vos]]| r1wc={{flagicon|CRO}} [[Triple Twenty]]
+|r2f={{flagicon|SWE}} [[Adrian Holm]] | r2ft=1:49.784| r2w={{flagicon|SWE}} [[Adrian Holm]]| r2wc={{ENG}} [[THR]]
+|r3f={{flagicon|SWE}} [[Adrian Holm]] | r3ft=1:50.342| r3w={{flagicon|ENG}} [[Simon Melhuish]]| r3wc={{flagicon|NED}} [[Racing Team Schroten]]
+}}
+{{ITC Round|2013|6|16|17|18|USA|American|
+|p={{flagicon|ENG}} [[Toby Davis]]|pt=1:16.483
+|r1f={{flagicon|SWE}} [[Adrian Holm]] | r1ft=1:16.603| r1w={{flagicon|SWE}} [[Adrian Holm]]| r1wc={{flagicon|ENG}} [[THR]]
+|r2f={{flagicon|ENG}} [[Toby Davis]] | r2ft=1:16.452| r2w={{flagicon|ENG}} [[Toby Davis]]| r2wc={{flagicon|ENG}} [[THR]]
+|r3f={{flagicon|ENG}} [[Jordan Weekes]] | r3ft=1:16.363| r3w={{flagicon|WAL}} [[Matt Richards]]| r3wc={{flagicon|WAL}} [[Airastream]]
+}}
+{{ITC Round|2013|7|19|20|21|AUS|Australian|
+|p={{flagicon|DEN}} [[Jesper Taulborg]]|pt=1:42.483
+|r1f={{flagicon|DEN}} [[Jesper Taulborg]] | r1ft=1:42.455| r1w={{flagicon|NED}} [[Ruud Heesterbeek]]| r1wc={{flagicon|ENG}} [[Vod:Bul Racing]]
+|r2f={{flagicon|SWE}} [[Adrian Holm]] | r2ft=1:42.638| r2w={{flagicon|SWE}} [[Adrian Holm]]| r2wc={{flagicon|ENG}} [[THR]]
+|r3f={{flagicon|ENG}} [[Mike Bell]] | r3ft=1:43.291| r3w={{flagicon|SWI}} [[David Jundt]]| r3wc={{flagicon|ENG}} [[THR]]
+}}
+{{ITC Round|2013|8|22|23|24|JPN|Japanese|
+}}
+|-
+|}
+
+====Scoring system====
+Points are awarded to the top 15 classified finishers.
+
+{| class="wikitable" style="font-size:85%; text-align:center"
+! Position
+|bgcolor="#ffffbf"| &nbsp;'''1st'''&nbsp;
+|bgcolor="#dfdfdf"| &nbsp;'''2nd'''&nbsp;
+|bgcolor="#ffdf9f"| &nbsp;'''3rd'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''4th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''5th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''6th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''7th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''8th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''9th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''10th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''11th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''12th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''13th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''14th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''15th'''&nbsp;
+|-
+! Points
+|bgcolor="#ffffbf"| 25
+|bgcolor="#dfdfdf"| 20
+|bgcolor="#ffdf9f"| 16
+|bgcolor="#dfffdf"| 13
+|bgcolor="#dfffdf"| 11
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 9
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 3
+|bgcolor="#dfffdf"| 2
+|bgcolor="#dfffdf"| 1
+|}
+
+===Drivers standings===
+
+{|
+|valign="top"|
+{| class="wikitable" style="font-size:85%; text-align:center;"
+|- valign="top"
+!valign="middle"| Pos
+!valign="middle"| Driver
+!colspan=3| [[2013 San Marino Touring Cup|SAN]]<br />{{flagicon|SAN}}
+!colspan=3| [[2013 Portuguese Touring Cup|POR]]<br />{{flagicon|POR}}
+!colspan=3| [[2013 Finnish Touring Cup|FIN]]<br />{{flagicon|FIN}}
+!colspan=3| [[2013 British Touring Cup|UK]]<br />{{flagicon|UK}}
+!colspan=3| [[2013 Canadian Touring Cup|CAN]]<br />{{flagicon|CAN}}
+!colspan=3| [[2013 American Touring Cup|USA]]<br />{{flagicon|USA}}
+!colspan=3| [[2013 Australian Touring Cup|AUS]]<br />{{flagicon|AUS}}
+!colspan=3| [[2013 Japanese Touring Cup|JPN]]<br />{{flagicon|JPN}}
+!valign="middle"| Points
+|-
+! 1
+|align="left"| {{flagicon|SWE}} [[Adrian Holm]]
+| bgcolor="#dfdfdf"| 2  ||bgcolor="#ffdf9f"| 3  ||bgcolor="#dfffdf"| 5  
+| bgcolor="#ffffbf"| '''''1'''''  ||bgcolor="#ffffbf"| 1  ||bgcolor="#dfffdf"| 10  
+| bgcolor="#cfcfff"| 25 ||bgcolor="#dfffdf"| 7  ||bgcolor="#ffdf9f"| 3  
+| bgcolor="#cfcfff"| 19 ||bgcolor="#dfffdf"| 5  ||bgcolor="#dfffdf"| 11
+| bgcolor="#dfffdf"| 6 ||bgcolor="#ffffbf"| ''1'' ||bgcolor="#dfffdf"| ''10''
+| bgcolor="#ffffbf"| ''1''  ||bgcolor="#cfcfff"| 30  ||bgcolor="#dfffdf"| 5  
+| bgcolor="#dfffdf"| 4  ||bgcolor="#ffffbf"| ''1''  ||bgcolor="#dfffdf"| 7  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 268
+|-
+! 2
+|align="left"| {{flagicon|ENG}} [[Toby Davis]]
+| bgcolor="#ffdf9f"| '''''3'''''  ||bgcolor="#ffffbf"| 1  ||bgcolor="#dfffdf"| 12 
+| bgcolor="#cfcfff"| 28 ||bgcolor="#dfffdf"| ''4''  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#ffdf9f"| 3  ||bgcolor="#ffffbf"| ''1''  ||bgcolor="#dfffdf"| 5  
+| bgcolor="#dfffdf"| 5 ||bgcolor="#dfffdf"| 11  ||bgcolor="#ffffbf"| ''1''
+| bgcolor="#dfffdf"| 4 ||bgcolor="#dfdfdf"| 2 ||bgcolor="#dfffdf"| 4
+| bgcolor="#dfffdf"| '''6''' ||bgcolor="#ffffbf"| ''1'' ||bgcolor="#efcfff"| Ret  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 232
+|-
+! 3
+|align="left"| {{flagicon|SWE}} [[Martin Palm]]
+| bgcolor="#dfffdf"| 4  ||bgcolor="#dfdfdf"| 2  ||bgcolor="#ffdf9f"| 3  
+| bgcolor="#efcfff"| Ret ||bgcolor="#dfffdf"| 11  ||bgcolor="#dfffdf"| 4  
+| bgcolor="#dfffdf"| 6  ||bgcolor="#dfdfdf"| 2  ||bgcolor="#dfffdf"| 6  
+| bgcolor="#cfcfff"| 20  ||bgcolor="#dfffdf"| 13  ||bgcolor="#dfdfdf"| 2  
+| bgcolor="#dfffdf"| 8 ||bgcolor="#dfffdf"| 4 ||bgcolor="#dfffdf"| 11
+| bgcolor="#dfffdf"| 12  ||bgcolor="#dfffdf"| 10  ||bgcolor="#dfdfdf"| 2  
+| bgcolor="#cfcfff"| 18  ||bgcolor="#dfffdf"| 10  ||bgcolor="#ffdf9f"| 3  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 208
+|-
+! 4
+|align="left"| {{flagicon|BEL}} [[Bart De Vos]]
+| bgcolor="#dfffdf"| 7  ||bgcolor="#dfffdf"| 5  ||bgcolor="#dfffdf"| 13
+| bgcolor="#cfcfff"| 19 ||bgcolor="#dfffdf"| 5  ||bgcolor="#dfffdf"| 12 
+| bgcolor="#ffffbf"| '''''1'''''  ||bgcolor="#ffdf9f"| 3  ||bgcolor="#dfffdf"| 12  
+| bgcolor="#cfcfff"| 22 ||bgcolor="#dfffdf"| 9  ||bgcolor="#dfffdf"| 5 
+| bgcolor="#ffffbf"| '''1''' ||bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 15
+| bgcolor="#dfffdf"| 4  ||bgcolor="#cfcfff"| 24  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| 6  ||bgcolor="#dfffdf"| 14  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 160
+|-
+! 5
+|align="left"| {{flagicon|ENG}} [[Thomas Jacobs]]
+| bgcolor="#cfcfff"| 28  ||bgcolor="#cfcfff"| 16  ||bgcolor="#ffffbf"| 1 
+| bgcolor="#dfffdf"| 6  ||bgcolor="#dfffdf"| 7  ||bgcolor="#cfcfff"| 16  
+| bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| 5  ||bgcolor="#cfcfff"| 17  
+| bgcolor="#dfffdf"| 10  ||bgcolor="#cfcfff"| 17  ||bgcolor="#dfffdf"| 6 
+| bgcolor="#dfffdf"| 10 ||bgcolor="#dfffdf"| 7 ||bgcolor="#dfffdf"| 8
+| bgcolor="#dfffdf"| 7 ||bgcolor="#dfffdf"| 4 ||bgcolor="#dfffdf"| 11  
+| bgcolor="#dfffdf"| 6 ||bgcolor="#dfffdf"| 4 ||bgcolor="#dfffdf"| 10 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 158
+|-
+! 6
+|align="left"| {{flagicon|WAL}} [[Matt Richards]]
+| bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| 14
+| bgcolor="#dfffdf"| 4  ||bgcolor="#ffdf9f"| 3  ||bgcolor="#cfcfff"| 26 
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 17 ||bgcolor="#ffffbf"| 1  
+| bgcolor="#ffdf9f"| 3  ||bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 17 
+| bgcolor="#ffdf9f"| 3 ||bgcolor="#dfffdf"| 14 ||bgcolor="#dfdfdf"| 2
+| bgcolor="#cfcfff"| 30  ||bgcolor="#dfffdf"| 15  ||bgcolor="#ffffbf"| 1  
+| bgcolor="#cfcfff"| 31  ||bgcolor="#cfcfff"| 27  ||bgcolor="#dfffdf"| 15  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 153
+|-
+! 7
+|align="left"| {{flagicon|USA}} [[Sven de Vries]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#cfcfff"| 18  ||bgcolor="#dfffdf"| 14  ||bgcolor="#dfdfdf"| 2  
+| bgcolor="#dfffdf"| 9  ||bgcolor="#dfffdf"| 12  ||bgcolor="#dfffdf"| 7  
+| bgcolor="#dfffdf"| 13  ||bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| 7 
+| bgcolor="#cfcfff"| 19||bgcolor="#cfcfff"| 16 ||bgcolor="#ffdf9f"| 3
+| bgcolor="#dfffdf"| 14  ||bgcolor="#dfffdf"| 6  ||bgcolor="#dfffdf"| 4  
+| bgcolor="#dfffdf"| 5  ||bgcolor="#ffdf9f"| 3  ||bgcolor="#cfcfff"| 29 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 127
+|-
+! 8
+|align="left"| {{flagicon|ENG}} [[Michael Ballard]]
+| bgcolor="#cfcfff"| 18  ||bgcolor="#efcfff"| Ret  ||bgcolor="#dfffdf"| 11
+| bgcolor="#dfffdf"| 5  ||bgcolor="#efcfff"| Ret  ||bgcolor="#dfffdf"| 15  
+| bgcolor="#dfffdf"| 4  ||bgcolor="#dfffdf"| 6  ||bgcolor="#dfffdf"| 10  
+| bgcolor="#dfffdf"| 4  ||bgcolor="#dfffdf"| 4  ||bgcolor="#dfffdf"| 12 
+| bgcolor="#dfffdf"| 12||bgcolor="#dfffdf"| 9 ||bgcolor="#efcfff"| Ret 
+| bgcolor="#cfcfff"| 26  ||bgcolor="#cfcfff"| 17  ||bgcolor="#dfffdf"| 7  
+| bgcolor="#dfffdf"| 12  ||bgcolor="#dfffdf"| 9  ||bgcolor="#dfffdf"| 5  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 118
+|-
+! 9
+|align="left"| {{flagicon|MLT}} [[Jason Muscat]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 16  ||bgcolor="#dfffdf"| 6
+| bgcolor="#dfffdf"| 5 ||bgcolor="#dfffdf"| 11  ||bgcolor="#dfffdf"| 15  
+| bgcolor="#dfffdf"| 11 ||bgcolor="#dfffdf"| 7  ||bgcolor="#dfffdf"| 15
+| bgcolor="#dfffdf"| 11 ||bgcolor="#dfffdf"| 12 ||bgcolor="#dfffdf"| 5 
+| bgcolor="#cfcfff"| 17 ||bgcolor="#dfffdf"| 9 ||bgcolor="#dfffdf"| 6  
+| bgcolor="#ffdf9f"| 3  ||bgcolor="#dfffdf"| 7 ||bgcolor="#dfffdf"| 12  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 106
+|-
+! 10
+|align="left"| {{flagicon|ARG}} [[Agustin Canapino]]
+| bgcolor="#ffffbf"| 1  ||bgcolor="#dfffdf"| 4  ||bgcolor="#dfdfdf"| 2  
+| bgcolor="#dfdfdf"| 2  ||bgcolor="#dfdfdf"| 2  ||bgcolor="#efcfff"| Ret
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 98
+|-
+! 11
+|align="left"| {{flagicon|NED}} [[Ruud Heesterbeek]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffdf9f"| 3  ||bgcolor="#dfdfdf"| 2  ||bgcolor="#dfffdf"| 12  
+| bgcolor="#ffffbf"| 1  ||bgcolor="#dfdfdf"| 2  ||bgcolor="#dfffdf"| 8  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 93
+|-
+! 12
+|align="left"| {{flagicon|ENG}} [[Mike Bell]]
+| bgcolor="#dfffdf"| 9  ||bgcolor="#dfffdf"| 13  ||bgcolor="#dfffdf"| 6
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#cfcfff"| 20  ||bgcolor="#dfffdf"| 13  ||bgcolor="#dfffdf"| 11  
+| bgcolor="#cfcfff"| 25  ||bgcolor="#cfcfff"| 25  ||bgcolor="#dfffdf"| 14 
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 17 ||bgcolor="#dfffdf"| 6
+| bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| 7  ||bgcolor="#cfcfff"| 25 
+| bgcolor="#dfffdf"| 7  ||bgcolor="#dfffdf"| 11  ||bgcolor="#dfdfdf"| ''2''  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 91
+|-
+! 13
+|align="left"| {{flagicon|ENG}} [[Tom Parker]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#dfffdf"| 12  ||bgcolor="#dfffdf"| 12  ||bgcolor="#dfffdf"| 5  
+| bgcolor="#cfcfff"| 18 ||bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 18 
+| bgcolor="#dfdfdf"| 2  ||bgcolor="#dfffdf"| 6  ||bgcolor="#dfffdf"| 9 
+| bgcolor="#dfffdf"| ''5'' ||bgcolor="#dfffdf"| 6 ||bgcolor="#dfffdf"| 14 
+| bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 18  ||bgcolor="#ffffff"| DNS 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 82
+|-
+! 14
+|align="left"| {{flagicon|ENG}} [[Jordan Weekes]]
+| bgcolor="#dfffdf"| 13  ||bgcolor="#dfffdf"| 7  ||bgcolor="#efcfff"| Ret
+| bgcolor="#dfffdf"| 7  ||bgcolor="#dfffdf"| 8  ||bgcolor="#ffdf9f"| 3  
+| bgcolor="#dfffdf"| 15  ||bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| ''9'' 
+| bgcolor="#efcfff"| Ret  ||bgcolor="#efcfff"| Ret  ||bgcolor="#ffffff"| DNS
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - 
+| bgcolor="#dfdfdf"| 2  ||bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| ''28{{Sup|†}}'' 
+| bgcolor="#cfcfff"| 30  ||bgcolor="#cfcfff"| 16  ||bgcolor="#cfcfff"| 22  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 81
+|-
+! 15
+|align="left"| {{flagicon|SWE}} [[Eric Stranne]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#dfffdf"| 9  ||bgcolor="#ffffbf"| ''1''  ||bgcolor="#cfcfff"| 24  
+| bgcolor="#dfffdf"| 9 ||bgcolor="#dfffdf"| 5 ||bgcolor="#dfffdf"| 13
+| bgcolor="#dfffdf"| 13 ||bgcolor="#dfffdf"| 8  ||bgcolor="#ffdf9f"| 3  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 80
+|-
+! 16
+|align="left"| {{flagicon|ENG}} [[Paul Watkins]]
+| bgcolor="#dfffdf"| 10  ||bgcolor="#dfffdf"| 10  ||bgcolor="#cfcfff"| 17
+| bgcolor="#cfcfff"| 17  ||bgcolor="#cfcfff"| 19  ||bgcolor="#dfffdf"| 9  
+| bgcolor="#dfffdf"| 7  ||bgcolor="#dfffdf"| 14  ||bgcolor="#dfffdf"| 8  
+| bgcolor="#dfffdf"| 7  ||bgcolor="#dfffdf"| 12  ||bgcolor="#cfcfff"| 31 
+| bgcolor="#cfcfff"| 18 ||bgcolor="#dfffdf"| 13 ||bgcolor="#dfffdf"| 9 
+| bgcolor="#cfcfff"| 22  ||bgcolor="#cfcfff"| 34  ||bgcolor="#cfcfff"| 16  
+| bgcolor="#dfffdf"| 13  ||bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| 9 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 79
+|-
+! 17
+|align="left"| {{flagicon|FIN}} [[Oskari Kantonen]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#dfdfdf"| 2  ||bgcolor="#dfffdf"| 4  ||bgcolor="#dfdfdf"| 2  
+| bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 23 ||bgcolor="#cfcfff"| 18
+| bgcolor="#dfffdf"| 7 ||bgcolor="#ffdf9f"| 3 ||bgcolor="#cfcfff"| 16 
+| bgcolor="#cfcfff"| 19 ||bgcolor="#cfcfff"| 21  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 78
+|-
+! 18
+|align="left"| {{flagicon|FIN}} [[Mikael Tuomaala]]
+| bgcolor="#dfffdf"| 12  ||bgcolor="#ffffff"| DNS ||bgcolor="#efcfff"| Ret
+| bgcolor="#dfffdf"| 9  ||bgcolor="#dfffdf"| 10  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#dfffdf"| 13  ||bgcolor="#dfffdf"| 10  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#dfffdf"| 12  ||bgcolor="#dfffdf"| 10  ||bgcolor="#dfffdf"| 4 
+| bgcolor="#dfffdf"| 15 ||bgcolor="#cfcfff"| 23 ||bgcolor="#cfcfff"| 30 
+| bgcolor="#efcfff"| Ret  ||bgcolor="#efcfff"| Ret  ||bgcolor="#dfffdf"| 10  
+| bgcolor="#dfffdf"| 14  ||bgcolor="#dfffdf"| 12  ||bgcolor="#dfffdf"| 6  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 72
+|-
+! 19
+|align="left"| {{flagicon|ENG}} [[James Kirk]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#dfffdf"| 12  ||bgcolor="#cfcfff"| 16  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#dfffdf"| 6  ||bgcolor="#cfcfff"| 18  ||bgcolor="#ffdf9f"| 3 
+| bgcolor="#dfffdf"| 14 ||bgcolor="#dfffdf"| 8 ||bgcolor="#efcfff"| Ret 
+| bgcolor="#dfffdf"| 5  ||bgcolor="#dfffdf"| 5  ||bgcolor="#cfcfff"| 26  
+| bgcolor="#efcfff"| Ret ||bgcolor="#efcfff"| Ret ||bgcolor="#ffffff"| DNS  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 62
+|-
+! 20
+|align="left"| {{flagicon|ENG}} [[Simon Melhuish]]
+| bgcolor="#cfcfff"| 16  ||bgcolor="#dfffdf"| 12  ||bgcolor="#dfffdf"| 7
+| bgcolor="#cfcfff"| 21  ||bgcolor="#cfcfff"| 29  ||bgcolor="#cfcfff"| 17  
+| bgcolor="#cfcfff"| 17  ||bgcolor="#cfcfff"| 19  ||bgcolor="#dfffdf"| 4  
+| bgcolor="#cfcfff"| 23  ||bgcolor="#dfffdf"| 15  ||bgcolor="#efcfff"| Ret 
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 20 ||bgcolor="#ffffbf"| 1
+| bgcolor="#cfcfff"| 18  ||bgcolor="#dfffdf"| 12  ||bgcolor="#efcfff"| Ret   
+| bgcolor="#cfcfff"| 22  ||bgcolor="#efcfff"| Ret  ||bgcolor="#efcfff"| Ret   
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 56
+|-
+! 21
+|align="left"| {{flagicon|ENG}} [[Matthew Williams]]
+| bgcolor="#cfcfff"| 20  ||bgcolor="#dfffdf"| 14  ||bgcolor="#dfffdf"| 9
+| bgcolor="#ffdf9f"| 3  ||bgcolor="#dfffdf"| 6  ||bgcolor="#dfffdf"| 11  
+| bgcolor="#cfcfff"| 32 ||bgcolor="#cfcfff"| 18 ||bgcolor="#cfcfff"| 16 
+| bgcolor="#cfcfff"| 35 ||bgcolor="#cfcfff"| 32 ||bgcolor="#cfcfff"| 19 
+| bgcolor="#dfffdf"| 13 ||bgcolor="#cfcfff"| 32 ||bgcolor="#cfcfff"| 18 
+| bgcolor="#dfffdf"| 9  ||bgcolor="#cfcfff"| 31  ||bgcolor="#efcfff"| Ret 
+| bgcolor="#dfffdf"| 11  ||bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 21  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 55
+|-
+! 22
+|align="left"| {{flagicon|ENG}} [[Dave Carr-Smith]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#ffffbf"| '''''1'''''  ||bgcolor="#dfdfdf"| 2  ||bgcolor="#dfffdf"| 13  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 48
+|-
+! 23
+|align="left"| {{flagicon|ENG}} [[Oscar Hardwick]]
+| bgcolor="#dfffdf"| 5  ||bgcolor="#cfcfff"| ''27''  ||bgcolor="#dfffdf"| ''8''
+| bgcolor="#efcfff"| Ret ||bgcolor="#dfffdf"| 13  ||bgcolor="#ffffbf"| ''1''  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 47
+|-
+! 24
+|align="left"| {{flagicon|FIN}} [[Mikko Suokas]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#dfffdf"| 14  ||bgcolor="#dfffdf"| 9  ||bgcolor="#dfffdf"| 13  
+| bgcolor="#cfcfff"| 28 ||bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"| 26
+| bgcolor="#dfdfdf"| 2 ||bgcolor="#dfffdf"| 10 ||bgcolor="#dfffdf"| 12
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 44
+|-
+! 25
+|align="left"| {{flagicon|DEN}} [[Jesper Taulborg]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#dfdfdf"| '''''2'''''  ||bgcolor="#dfffdf"| 5  ||bgcolor="#dfffdf"| 11  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 36
+|-
+! 26
+|align="left"| {{flagicon|NOR}} [[Erik Tveit]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#cfcfff"| 32 ||bgcolor="#ffffff"| DNS ||bgcolor="#ffffff"| -
+| bgcolor="#dfffdf"| 11  ||bgcolor="#ffdf9f"| 3  ||bgcolor="#dfffdf"| 8 
+| bgcolor="#dfffdf"| 10  ||bgcolor="#efcfff"| Ret ||bgcolor="#ffffff"| DNS 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 35
+|-
+! 27
+|align="left"| {{flagicon|SWI}} [[David Jundt]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#dfffdf"| 9  ||bgcolor="#dfffdf"| 14  ||bgcolor="#ffffbf"| 1
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 34
+|-
+! 28
+|align="left"| {{flagicon|ENG}} [[Lewis McGlade]]
+| bgcolor="#cfcfff"| 23 ||bgcolor="#cfcfff"| 17 ||bgcolor="#cfcfff"| 16
+| bgcolor="#dfffdf"| 15 ||bgcolor="#dfffdf"| 15 ||bgcolor="#dfffdf"| 8 
+| bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 33 ||bgcolor="#cfcfff"| 26 
+| bgcolor="#cfcfff"| 16 ||bgcolor="#cfcfff"| 16 ||bgcolor="#dfffdf"| 8
+| bgcolor="#cfcfff"| 20 ||bgcolor="#cfcfff"| 22 ||bgcolor="#cfcfff"| 19 
+| bgcolor="#dfffdf"| 10 ||bgcolor="#dfffdf"| 11 ||bgcolor="#cfcfff"| 18 
+| bgcolor="#cfcfff"| 17 ||bgcolor="#cfcfff"| 19 ||bgcolor="#cfcfff"| 17  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 29
+|-
+! 29
+|align="left"| {{flagicon|NED}} [[Tom van der Voort]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#dfffdf"| 15  ||bgcolor="#ffdf9f"| 3  ||bgcolor="#dfffdf"| 10 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 23
+|-
+! 30
+|align="left"| {{flagicon|ENG}} [[Cameron Brewster]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#dfffdf"| 13  ||bgcolor="#dfffdf"| 9  ||bgcolor="#dfffdf"| 7  
+| bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 31 ||bgcolor="#cfcfff"| 27 
+| bgcolor="#cfcfff"| 18 ||bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 25 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#cfcfff"| 16 ||bgcolor="#dfffdf"| 14 ||bgcolor="#cfcfff"| 27  
+| bgcolor="#dfffdf"| 15  ||bgcolor="#cfcfff"| 22 ||bgcolor="#cfcfff"| 16 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 22
+|-
+! 31
+|align="left"| {{flagicon|GER}} [[Robert Wiesenmueller]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#cfcfff"| 22  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#cfcfff"| 16 ||bgcolor="#cfcfff"| 18 ||bgcolor="#000000" style="color:white"|DSQ 
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 19  ||bgcolor="#dfffdf"| 9  
+| bgcolor="#ffffff"|  ||bgcolor="#dfffdf"| 15  ||bgcolor="#dfffdf"| 4  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 21
+|-
+! 32
+|align="left"| {{flagicon|ENG}} [[Ben Hackeson]]
+| bgcolor="#cfcfff"| 17 ||bgcolor="#cfcfff"| 23 ||bgcolor="#efcfff"| Ret
+| bgcolor="#dfffdf"| 11  ||bgcolor="#cfcfff"| 28  ||bgcolor="#dfffdf"| 13  
+| bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 19  
+| bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| 14  ||bgcolor="#cfcfff"| 16
+| bgcolor="#cfcfff"| 25 ||bgcolor="#cfcfff"| 28 ||bgcolor="#efcfff"| Ret 
+| bgcolor="#cfcfff"| 25 ||bgcolor="#dfffdf"| 13 ||bgcolor="#efcfff"| Ret  
+| bgcolor="#cfcfff"| 16 ||bgcolor="#cfcfff"| 17 ||bgcolor="#cfcfff"| 24  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 21
+|-
+! 33
+|align="left"| {{flagicon|AUS}} [[Harley Hamnett]]
+| bgcolor="#dfffdf"| 6  ||bgcolor="#dfffdf"| 6  ||bgcolor="#ffffff"| DNS
+| bgcolor="#cfcfff"| 32{{Sup|†}} ||bgcolor="#efcfff"| Ret ||bgcolor="#ffffff"| DNS  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 21 ||bgcolor="#ffffff"| DNS
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 20
+|-
+! 34
+|align="left"| {{flagicon|NOR}} [[Scott Sovik]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#dfffdf"| 10  ||bgcolor="#cfcfff"| 31{{Sup|†}}  ||bgcolor="#cfcfff"| 20 
+| bgcolor="#cfcfff"| 16 ||bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 25 
+| bgcolor="#dfffdf"| 14  ||bgcolor="#ffffff"| DNS  ||bgcolor="#cfcfff"| 23 
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 17 
+| bgcolor="#cfcfff"| 23  ||bgcolor="#efcfff"| Ret  ||bgcolor="#dfffdf"| 15 
+| bgcolor="#cfcfff"| 20  ||bgcolor="#dfffdf"| 13  ||bgcolor="#dfffdf"| 13 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 15
+|-
+! 35
+|align="left"| {{flagicon|CRO}} [[Ilija Brekalo]]
+| bgcolor="#ffffff"| DNS  ||bgcolor="#dfffdf"| 15  ||bgcolor="#dfffdf"| 4
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#cfcfff"| 31 ||bgcolor="#cfcfff"| 31 ||bgcolor="#efcfff"| Ret
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"| 20 ||bgcolor="#cfcfff"| 29{{Sup|†}} 
+| bgcolor="#cfcfff"| 19 ||bgcolor="#cfcfff"| 20 ||bgcolor="#efcfff"| Ret  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 14
+|-
+! 36
+|align="left"| {{flagicon|BEL}} [[Kenney Lybeer]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#dfffdf"| 14  ||bgcolor="#cfcfff"| 32{{Sup|†}}  ||bgcolor="#cfcfff"| 28 
+| bgcolor="#dfffdf"| 10  ||bgcolor="#dfffdf"| 15  ||bgcolor="#efcfff"| Ret 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#cfcfff"| 17 ||bgcolor="#dfffdf"| 11 ||bgcolor="#cfcfff"| 20 
+| bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 33  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 14
+|-
+! 37
+|align="left"| {{flagicon|NED}} [[Jos Friemann]]
+| bgcolor="#dfffdf"| 11  ||bgcolor="#efcfff"| Ret  ||bgcolor="#efcfff"| Ret
+| bgcolor="#dfffdf"| 8  ||bgcolor="#efcfff"| Ret  ||bgcolor="#ffffff"| DNS 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 13
+|-
+! 38
+|align="left"| {{flagicon|NED}} [[Douwe Tapper]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 19 ||bgcolor="#dfffdf"| 7 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 9
+|-
+! 39
+|align="left"| {{flagicon|FIN}} [[Teemu Toikka]]
+| bgcolor="#cfcfff"| 22  ||bgcolor="#cfcfff"| 18  ||bgcolor="#dfffdf"| 10
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#cfcfff"| 20  ||bgcolor="#cfcfff"| 25  ||bgcolor="#dfffdf"| 13  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 9
+|-
+! 40
+|align="left"| {{flagicon|SCO}} [[Paul Joseph]]
+| bgcolor="#dfffdf"| 14  ||bgcolor="#dfffdf"| 11  ||bgcolor="#cfcfff"| 18
+| bgcolor="#cfcfff"| 25  ||bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 22  
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"|  
+| bgcolor="#cfcfff"| 27  ||bgcolor="#cfcfff"| 19 ||bgcolor="#cfcfff"| 22
+| bgcolor="#cfcfff"| 22 ||bgcolor="#cfcfff"| 28 ||bgcolor="#cfcfff"| 23 
+| bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 22 ||bgcolor="#dfffdf"| 14 
+| bgcolor="#cfcfff"| 23  ||bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 31 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 9
+|-
+! 41
+|align="left"| {{flagicon|ENG}} [[Scott Berrisford]]
+| bgcolor="#dfffdf"| 15  ||bgcolor="#dfffdf"| 9  ||bgcolor="#cfcfff"| 20 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 8
+|-
+! 42
+|align="left"| {{flagicon|DEN}} [[Morten Wernersen]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#dfffdf"| 11  ||bgcolor="#cfcfff"| 23  ||bgcolor="#cfcfff"| 24  
+| bgcolor="#cfcfff"| 36{{Sup|†}}  ||bgcolor="#cfcfff"| 20  ||bgcolor="#cfcfff"| 20 
+| bgcolor="#cfcfff"| 21 ||bgcolor="#dfffdf"| 15 ||bgcolor="#efcfff"| Ret 
+| bgcolor="#dfffdf"| 15  ||bgcolor="#cfcfff"| 16  ||bgcolor="#efcfff"| Ret 
+| bgcolor="#cfcfff"| 25  ||bgcolor="#cfcfff"| 23  ||bgcolor="#cfcfff"| 20  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 7
+|-
+! 43
+|align="left"| {{flagicon|NED}} [[Menno Klont]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#cfcfff"| 20  ||bgcolor="#cfcfff"| 17  ||bgcolor="#dfffdf"| 14 
+| bgcolor="#cfcfff"| 31 ||bgcolor="#cfcfff"| 28 ||bgcolor="#efcfff"| Ret 
+| bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 24 ||bgcolor="#efcfff"| Ret 
+| bgcolor="#cfcfff"| 27 ||bgcolor="#cfcfff"| 34 ||bgcolor="#cfcfff"| 25 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#cfcfff"| 34{{Sup|†}}  ||bgcolor="#efcfff"| Ret  ||bgcolor="#ffffff"| DNS 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 2
+|-
+! =
+|align="left"| {{flagicon|NED}} [[Roy Schroten]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 26  ||bgcolor="#dfffdf"| 14  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#cfcfff"| 32 ||bgcolor="#cfcfff"| 32 ||bgcolor="#cfcfff"| 22   
+| bgcolor="#efcfff"| Ret  ||bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 19 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 2
+|-
+! 45
+|align="left"| {{flagicon|SWE}} [[Jonatan Acerclinth]]
+| bgcolor="#cfcfff"| 25  ||bgcolor="#cfcfff"| 22  ||bgcolor="#dfffdf"| 15
+| bgcolor="#cfcfff"| 30  ||bgcolor="#cfcfff"| 24  ||bgcolor="#cfcfff"| 19  
+| bgcolor="#cfcfff"| 27  ||bgcolor="#cfcfff"| 27  ||bgcolor="#cfcfff"| 20  
+| bgcolor="#cfcfff"| 17  ||bgcolor="#cfcfff"| 30  ||bgcolor="#cfcfff"| 21
+| bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 30 ||bgcolor="#cfcfff"| 29 
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 17   
+| bgcolor="#cfcfff"| 28 ||bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 18  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 1
+|-
+! 46
+|align="left"| {{flagicon|ENG}} [[David Carter]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#cfcfff"| 16  ||bgcolor="#cfcfff"| 22  ||bgcolor="#efcfff"| Ret 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! 47
+|align="left"| {{flagicon|TAI}} [[Juen-Jen Wang]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#cfcfff"| 31{{Sup|†}}  ||bgcolor="#cfcfff"| 18  ||bgcolor="#cfcfff"| 27
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| -  
+| bgcolor="#cfcfff"| 34  ||bgcolor="#cfcfff"| 26  ||bgcolor="#efcfff"| Ret 
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| -
+| bgcolor="#cfcfff"| 33  ||bgcolor="#cfcfff"| 28  ||bgcolor="#cfcfff"| 23  
+| bgcolor="#cfcfff"| 27  ||bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 28  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! =
+|align="left"| {{flagicon|FIN}} [[Janne Väänänen]]
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 25 ||bgcolor="#efcfff"| Ret
+| bgcolor="#cfcfff"| 26  ||bgcolor="#cfcfff"| 30  ||bgcolor="#cfcfff"| 18  
+| bgcolor="#cfcfff"| 22  ||bgcolor="#cfcfff"| 25  ||bgcolor="#efcfff"| Ret   
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 22 ||bgcolor="#cfcfff"| 27 
+| bgcolor="#cfcfff"| 23 ||bgcolor="#cfcfff"| 25 ||bgcolor="#cfcfff"| 21
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! =
+|align="left"| {{flagicon|ENG}} [[Mark Wicks]]
+| bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 20 ||bgcolor="#efcfff"| Ret
+| bgcolor="#cfcfff"| 23  ||bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 23  
+| bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"| 23
+| bgcolor="#cfcfff"| 24  ||bgcolor="#cfcfff"| 27 ||bgcolor="#cfcfff"| 28 
+| bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 26 
+| bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 23 ||bgcolor="#efcfff"| Ret 
+| bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 18 ||bgcolor="#efcfff"| Ret 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! 50
+|align="left"| {{flagicon|ENG}} [[Matt Clipp]]
+| bgcolor="#cfcfff"| 19 ||bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 19
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! =
+|align="left"| {{flagicon|ENG}} [[Philip Morby]]
+| bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 19 ||bgcolor="#cfcfff"| 21
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 24
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"| 27  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! =
+|align="left"| {{flagicon|ENG}} [[Simon Crain]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#cfcfff"| 19  ||bgcolor="#cfcfff"| 30  ||bgcolor="#ffffff"| DNS  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! =
+|align="left"| {{flagicon|NED}} [[Alexander van der Woude]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"| 19 
+| bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 28 ||bgcolor="#cfcfff"| 23  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! 54
+|align="left"| {{flagicon|NED}} [[Mike Schroten]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#cfcfff"| 29  ||bgcolor="#cfcfff"| 20  ||bgcolor="#efcfff"| Ret
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#cfcfff"| 30 ||bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"|  22
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! =
+|align="left"| {{flagicon|BEL}} [[Nico de Koninck]]
+| bgcolor="#cfcfff"| 32{{Sup|†}} ||bgcolor="#cfcfff"| 29 ||bgcolor="#efcfff"| Ret
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"| 20 ||bgcolor="#cfcfff"| 29  
+| bgcolor="#cfcfff"| 33 ||bgcolor="#efcfff"| Ret ||bgcolor="#efcfff"| Ret
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#cfcfff"| 32 ||bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 30  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! =
+|align="left"| {{flagicon|ENG}} [[Tyrone Frith]]
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 25
+| bgcolor="#cfcfff"| 24  ||bgcolor="#cfcfff"| 25  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#cfcfff"| 30  ||bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 31  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#cfcfff"| 28  ||bgcolor="#cfcfff"| 27  ||bgcolor="#cfcfff"| 20 
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| -  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! 57
+|align="left"| {{flagicon|ENG}} [[Chris Williamson]]
+| bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"| 28 ||bgcolor="#cfcfff"| 23
+| bgcolor="#cfcfff"| 22  ||bgcolor="#cfcfff"| 21  ||bgcolor="#cfcfff"| 25 
+| bgcolor="#cfcfff"| 28  ||bgcolor="#cfcfff"| 32  ||bgcolor="#cfcfff"| 28 
+| bgcolor="#cfcfff"| 30  ||bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 29 
+| bgcolor="#cfcfff"| 28 ||bgcolor="#cfcfff"| 31 ||bgcolor="#cfcfff"| 27
+| bgcolor="#cfcfff"| 27  ||bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 24  
+| bgcolor="#cfcfff"| 35{{Sup|†}}  ||bgcolor="#cfcfff"| 25  ||bgcolor="#cfcfff"| 26   
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! =
+|align="left"| {{flagicon|GER}} [[Christoph Lichtenstein]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 23  ||bgcolor="#cfcfff"| 21
+| bgcolor="#cfcfff"| 23  ||bgcolor="#cfcfff"| 22  ||bgcolor="#cfcfff"| 21  
+| bgcolor="#cfcfff"| 29  ||bgcolor="#efcfff"| Ret  ||bgcolor="#efcfff"| Ret 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! =
+|align="left"| {{flagicon|ENG}} [[Joshua Anderson]]
+| bgcolor="#cfcfff"| 30 ||bgcolor="#ffffff"| DNS ||bgcolor="#cfcfff"| 22
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - 
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - 
+| bgcolor="#cfcfff"| 32 ||bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 30
+| bgcolor="#cfcfff"| 31 ||bgcolor="#cfcfff"| 33 ||bgcolor="#cfcfff"| 28 
+| bgcolor="#cfcfff"| 31 ||bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 21
+| bgcolor="#cfcfff"| 33  ||bgcolor="#ffffff"| DNS ||bgcolor="#ffffff"| - 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! 60
+|align="left"| {{flagicon|FIN}} [[Tommi Koivunen]]
+| bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 24
+| bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 26  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! =
+|align="left"| {{flagicon|USA}} [[Brandon Warren]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#cfcfff"| 27 ||bgcolor="#cfcfff"| 27  ||bgcolor="#cfcfff"| 24
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! 62
+|align="left"| {{flagicon|ENG}} [[Kyle Williams]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#cfcfff"| 29  ||bgcolor="#cfcfff"| 26  ||bgcolor="#cfcfff"| 25
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! 63
+|align="left"| {{flagicon|NED}} [[Calvin Hermse]]
+| bgcolor="#cfcfff"| 27 ||bgcolor="#efcfff"| Ret ||bgcolor="#efcfff"| Ret
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! 64
+|align="left"| {{flagicon|ENG}} [[Matthew Allington]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#cfcfff"| 30  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! 65
+|align="left"| {{flagicon|ENG}} [[Scott Bennett]]
+| bgcolor="#cfcfff"| 31{{Sup|†}} ||bgcolor="#efcfff"| Ret ||bgcolor="#efcfff"| Ret
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! 66
+|align="left"| {{flagicon|NED}} [[Sven Smits]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#efcfff"| Ret ||bgcolor="#ffffff"| DNS ||bgcolor="#ffffff"|   
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! =
+|align="left"| {{flagicon|NED}} [[Lars Brugman]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#efcfff"| Ret ||bgcolor="#efcfff"| Ret  ||bgcolor="#ffffff"| DNS 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+! =
+|align="left"| {{flagicon|ENG}} [[Lee Palmer]]
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#efcfff"| Ret  ||bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!align="right"| 0
+|-
+|- valign="top"
+!valign="middle"| Pos
+!valign="middle" width=160| Driver
+!colspan=3| [[2013 San Marino Touring Cup|SAN]]<br />{{flagicon|SAN}}
+!colspan=3| [[2013 Portuguese Touring Cup|POR]]<br />{{flagicon|POR}}
+!colspan=3| [[2013 Finnish Touring Cup|FIN]]<br />{{flagicon|FIN}}
+!colspan=3| [[2013 British Touring Cup|UK]]<br />{{flagicon|UK}}
+!colspan=3| [[2013 Canadian Touring Cup|CAN]]<br />{{flagicon|CAN}}
+!colspan=3| [[2013 American Touring Cup|USA]]<br />{{flagicon|USA}}
+!colspan=3| [[2013 Australian Touring Cup|AUS]]<br />{{flagicon|AUS}}
+!colspan=3| [[2013 Japanese Touring Cup|JPN]]<br />{{flagicon|JPN}}
+!valign="middle"| Points
+|}
+|valign="top"|
+{{F1 driver results legend 2}}
+<span style="font-size:85%">'''Bold'''&nbsp;- Pole<br />
+''Italics''&nbsp;- Fastest lap</span>
+|}
+
+{{Sup|†}} Drivers did not finish the race, but were classified as they completed over 75% of the race distance.<br>
+{{Sup|‡}} <br>
+
+===Constructors standings===
+
+{|
+|valign="top"|
+{| class="wikitable" style="font-size: 85%; text-align:center;"
+|- valign="top"
+!valign="middle"| Pos
+!valign="middle"| Constructor
+!valign="middle"| Car<br />No.
+!colspan=3| [[2013 San Marino Touring Cup|SAN]]<br />{{flagicon|SAN}}
+!colspan=3| [[2013 Portuguese Touring Cup|POR]]<br />{{flagicon|POR}}
+!colspan=3| [[2013 Finnish Touring Cup|FIN]]<br />{{flagicon|FIN}}
+!colspan=3| [[2013 British Touring Cup|UK]]<br />{{flagicon|UK}}
+!colspan=3| [[2013 Canadian Touring Cup|CAN]]<br />{{flagicon|CAN}}
+!colspan=3| [[2013 American Touring Cup|USA]]<br />{{flagicon|USA}}
+!colspan=3| [[2013 Australian Touring Cup|AUS]]<br />{{flagicon|AUS}}
+!colspan=3| [[2013 Japanese Touring Cup|JPN]]<br />{{flagicon|JPN}}
+!valign="middle"| Points
+|- style="border-top:2px solid #aaaaaa"
+!rowspan="2" align="left"| 1
+|rowspan="2" align="left"| {{flagicon|ENG}} [[THR]]
+| 3
+| bgcolor="#ffdf9f"| '''''3'''''  ||bgcolor="#ffffbf"| 1  ||bgcolor="#dfffdf"| 12  
+| bgcolor="#cfcfff"| 28 ||bgcolor="#dfffdf"| ''12''  ||bgcolor="#efcfff"| Ret   
+| bgcolor="#ffdf9f"| 3  ||bgcolor="#ffffbf"| ''1''  ||bgcolor="#dfffdf"| 5  
+| bgcolor="#dfffdf"| 5 ||bgcolor="#dfffdf"| 11  ||bgcolor="#ffffbf"| ''1'' 
+| bgcolor="#dfffdf"| 4 ||bgcolor="#dfdfdf"| 2 ||bgcolor="#dfffdf"| 4
+| bgcolor="#dfffdf"| '''6''' ||bgcolor="#ffffbf"| ''1'' ||bgcolor="#efcfff"| Ret
+| bgcolor="#dfffdf"| 9  ||bgcolor="#dfffdf"| 14  ||bgcolor="#ffffbf"| 1 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|       
+!rowspan="2" align="right"| 534
+|-
+| 4
+| bgcolor="#dfdfdf"| 2  ||bgcolor="#ffdf9f"| 3  ||bgcolor="#dfffdf"| 4   
+| bgcolor="#ffffbf"| '''''1'''''  ||bgcolor="#ffffbf"| 1  ||bgcolor="#dfffdf"| 10  
+| bgcolor="#cfcfff"| 25 ||bgcolor="#dfffdf"| 7  ||bgcolor="#ffdf9f"| 3  
+| bgcolor="#cfcfff"| 19 ||bgcolor="#dfffdf"| 5  ||bgcolor="#dfffdf"| 11 
+| bgcolor="#dfffdf"| 6 ||bgcolor="#ffffbf"| ''1'' ||bgcolor="#dfffdf"| ''10''
+| bgcolor="#ffffbf"| ''1''  ||bgcolor="#cfcfff"| 30  ||bgcolor="#dfffdf"| 5  
+| bgcolor="#dfffdf"| 4  ||bgcolor="#ffffbf"| ''1''  ||bgcolor="#dfffdf"| 7   
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|    
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 2
+|rowspan="2" align="left"| {{flagicon|ENG}} [[Vod:Bul Racing]]
+| 36
+| bgcolor="#dfffdf"| 11  ||bgcolor="#efcfff"| Ret  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#dfffdf"| 8  ||bgcolor="#efcfff"| Ret  ||bgcolor="#ffffff"| DNS  
+| bgcolor="#dfffdf"| 14  ||bgcolor="#dfffdf"| 9  ||bgcolor="#dfffdf"| 13  
+| bgcolor="#cfcfff"| 28 ||bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"| 26
+| bgcolor="#dfffdf"| 7 ||bgcolor="#ffdf9f"| 3 ||bgcolor="#cfcfff"| 16  
+| bgcolor="#ffdf9f"| 3  ||bgcolor="#dfdfdf"| 2  ||bgcolor="#dfffdf"| 12
+| bgcolor="#ffffbf"| 1  ||bgcolor="#dfdfdf"| 2  ||bgcolor="#dfffdf"| 8   
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|   
+!rowspan="2" align="right"| 254
+|-
+| 37
+| bgcolor="#ffffbf"| 1  ||bgcolor="#dfffdf"| 4  ||bgcolor="#dfdfdf"| 2  
+| bgcolor="#dfdfdf"| 2  ||bgcolor="#dfdfdf"| 2  ||bgcolor="#efcfff"| Ret 
+| bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 26  ||bgcolor="#dfffdf"| 14   
+| bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 23 ||bgcolor="#cfcfff"| 18
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 19 ||bgcolor="#dfffdf"| 7 
+| bgcolor="#cfcfff"| 19 ||bgcolor="#cfcfff"| 21  ||bgcolor="#efcfff"| Ret   
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 3
+|rowspan="2" align="left"| {{flagicon|USA}} [[Torrent Motorsports]]
+| 0
+| bgcolor="#dfffdf"| 6  ||bgcolor="#dfffdf"| 6  ||bgcolor="#ffffff"| DNS 
+| bgcolor="#cfcfff"| 32{{Sup|†}} ||bgcolor="#efcfff"| Ret ||bgcolor="#ffffff"| DNS   
+| bgcolor="#dfffdf"| 11  ||bgcolor="#cfcfff"| 23  ||bgcolor="#cfcfff"| 24   
+| bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 21 ||bgcolor="#ffffff"| DNS
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - 
+| bgcolor="#dfdfdf"| 2  ||bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| ''28{{Sup|†}}''   
+| bgcolor="#cfcfff"| 30  ||bgcolor="#cfcfff"| 16  ||bgcolor="#cfcfff"| 22   
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+!rowspan="2" align="right"| 253
+|-
+| 2
+| bgcolor="#dfffdf"| 4  ||bgcolor="#dfdfdf"| 2  ||bgcolor="#ffdf9f"| 3  
+| bgcolor="#efcfff"| Ret ||bgcolor="#dfffdf"| 11  ||bgcolor="#dfffdf"| 4  
+| bgcolor="#dfffdf"| 6  ||bgcolor="#dfdfdf"| 2  ||bgcolor="#dfffdf"| 6   
+| bgcolor="#cfcfff"| 20  ||bgcolor="#dfffdf"| 13  ||bgcolor="#dfdfdf"| 2   
+| bgcolor="#dfffdf"| 8 ||bgcolor="#dfffdf"| 4 ||bgcolor="#dfffdf"| 11 
+| bgcolor="#dfffdf"| 12  ||bgcolor="#dfffdf"| 10  ||bgcolor="#dfdfdf"| 2  
+| bgcolor="#cfcfff"| 18  ||bgcolor="#dfffdf"| 10  ||bgcolor="#ffdf9f"| 3  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|      
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 4
+|rowspan="2" align="left"| {{flagicon|ENG}} [[Woods Racing]]
+| 30
+| bgcolor="#dfffdf"| 5  ||bgcolor="#cfcfff"| ''27''  ||bgcolor="#dfffdf"| ''8''  
+| bgcolor="#efcfff"| Ret ||bgcolor="#dfffdf"| 13  ||bgcolor="#ffffbf"| ''1'' 
+| bgcolor="#dfdfdf"| 2  ||bgcolor="#dfffdf"| 4  ||bgcolor="#dfdfdf"| 2  
+| bgcolor="#ffffbf"| '''''1'''''  ||bgcolor="#dfdfdf"| 2  ||bgcolor="#dfffdf"| 13  
+| bgcolor="#dfdfdf"| 2 ||bgcolor="#dfffdf"| 10 ||bgcolor="#dfffdf"| 12
+| bgcolor="#cfcfff"| 20  ||bgcolor="#cfcfff"| 25  ||bgcolor="#dfffdf"| 13   
+| bgcolor="#cfcfff"| 29  ||bgcolor="#cfcfff"| 26  ||bgcolor="#cfcfff"| 25  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|   
+!rowspan="2" align="right"| 243
+|-
+| 31
+| bgcolor="#cfcfff"| 31{{Sup|†}} ||bgcolor="#efcfff"| Ret ||bgcolor="#efcfff"| Ret  
+| bgcolor="#cfcfff"| 27 ||bgcolor="#cfcfff"| 27  ||bgcolor="#cfcfff"| 24  
+| bgcolor="#dfffdf"| 12  ||bgcolor="#cfcfff"| 16  ||bgcolor="#efcfff"| Ret   
+| bgcolor="#dfffdf"| 6  ||bgcolor="#cfcfff"| 18  ||bgcolor="#ffdf9f"| 3 
+| bgcolor="#dfffdf"| 14 ||bgcolor="#dfffdf"| 8 ||bgcolor="#efcfff"| Ret
+| bgcolor="#dfffdf"| 5  ||bgcolor="#dfffdf"| 5  ||bgcolor="#cfcfff"| 26 
+| bgcolor="#efcfff"| Ret ||bgcolor="#efcfff"| Ret ||bgcolor="#ffffff"| DNS   
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|   
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 5
+|rowspan="2" align="left"| {{flagicon|CRO}} [[Triple Twenty]]
+| 5
+| bgcolor="#ffffff"| -  ||bgcolor="#dfffdf"| 15  ||bgcolor="#dfffdf"| 4  
+| bgcolor="#cfcfff"| 18  ||bgcolor="#dfffdf"| 14  ||bgcolor="#dfdfdf"| 2  
+| bgcolor="#dfffdf"| 9  ||bgcolor="#dfffdf"| 12  ||bgcolor="#dfffdf"| 7  
+| bgcolor="#cfcfff"| 31 ||bgcolor="#cfcfff"| 31 ||bgcolor="#efcfff"| Ret
+| bgcolor="#cfcfff"| 19||bgcolor="#cfcfff"| 16 ||bgcolor="#ffdf9f"| 3
+| bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"| 20 ||bgcolor="#cfcfff"| 29{{Sup|†}}   
+| bgcolor="#cfcfff"| 19 ||bgcolor="#cfcfff"| 20 ||bgcolor="#efcfff"| Ret  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!rowspan="2" align="right"| 232
+|-
+| 6
+| bgcolor="#dfffdf"| 7  ||bgcolor="#dfffdf"| 5  ||bgcolor="#dfffdf"| 13  
+| bgcolor="#cfcfff"| 19 ||bgcolor="#dfffdf"| 5  ||bgcolor="#dfffdf"| 12 
+| bgcolor="#ffffbf"| '''''1'''''  ||bgcolor="#ffdf9f"| 3  ||bgcolor="#dfffdf"| 12  
+| bgcolor="#cfcfff"| 22 ||bgcolor="#dfffdf"| 9  ||bgcolor="#dfffdf"| 5  
+| bgcolor="#ffffbf"| '''1''' ||bgcolor="#efcfff"| Ret ||bgcolor="#dfffdf"| 15 
+| bgcolor="#dfffdf"| 4  ||bgcolor="#cfcfff"| 24  ||bgcolor="#efcfff"| Ret   
+| bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| 6  ||bgcolor="#dfffdf"| 14   
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 6
+|rowspan="2" align="left"| {{flagicon|ENG}} [[TWR]]
+| 18
+| bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| 14  
+| bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 16  ||bgcolor="#dfffdf"| 6  
+| bgcolor="#dfffdf"| 5 ||bgcolor="#dfffdf"| 11  ||bgcolor="#dfffdf"| 15  
+| bgcolor="#dfffdf"| 11 ||bgcolor="#dfffdf"| 7  ||bgcolor="#dfffdf"| 15
+| bgcolor="#dfffdf"| 11 ||bgcolor="#dfffdf"| 12 ||bgcolor="#dfffdf"| 5
+| bgcolor="#cfcfff"| 17 ||bgcolor="#dfffdf"| 9 ||bgcolor="#dfffdf"| 6 
+| bgcolor="#ffdf9f"| 3  ||bgcolor="#dfffdf"| 7 ||bgcolor="#dfffdf"| 12  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|     
+!rowspan="2" align="right"| 203
+|-
+| 19
+| bgcolor="#dfffdf"| 10  ||bgcolor="#dfffdf"| 10  ||bgcolor="#cfcfff"| 17  
+| bgcolor="#cfcfff"| 17  ||bgcolor="#cfcfff"| 19  ||bgcolor="#dfffdf"| 9  
+| bgcolor="#dfffdf"| 7  ||bgcolor="#dfffdf"| 14  ||bgcolor="#dfffdf"| 8  
+| bgcolor="#dfffdf"| 7  ||bgcolor="#dfffdf"| 12  ||bgcolor="#cfcfff"| 31 
+| bgcolor="#cfcfff"| 18 ||bgcolor="#dfffdf"| 13 ||bgcolor="#dfffdf"| 9  
+| bgcolor="#cfcfff"| 22  ||bgcolor="#cfcfff"| 34  ||bgcolor="#cfcfff"| 16  
+| bgcolor="#dfffdf"| 13  ||bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| 9  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|   
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 7
+|rowspan="2" align="left"| {{flagicon|ENG}} [[Playseat® Racing]]
+| 11
+| bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 19 ||bgcolor="#cfcfff"| 21  
+| bgcolor="#dfffdf"| 13  ||bgcolor="#dfffdf"| 9  ||bgcolor="#dfffdf"| 7  
+| bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 31 ||bgcolor="#cfcfff"| 27  
+| bgcolor="#cfcfff"| 18 ||bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 25  
+| bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 24
+| bgcolor="#cfcfff"| 16 ||bgcolor="#dfffdf"| 14 ||bgcolor="#cfcfff"| 27    
+| bgcolor="#dfffdf"| 15  ||bgcolor="#cfcfff"| 22 ||bgcolor="#cfcfff"| 16  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|      
+!rowspan="2" align="right"| 180
+|-
+| 12
+| bgcolor="#cfcfff"| 28  ||bgcolor="#cfcfff"| 16  ||bgcolor="#ffffbf"| 1  
+| bgcolor="#dfffdf"| 6  ||bgcolor="#dfffdf"| 7  ||bgcolor="#cfcfff"| 16  
+| bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| 5  ||bgcolor="#cfcfff"| 17 
+| bgcolor="#dfffdf"| 10  ||bgcolor="#cfcfff"| 17  ||bgcolor="#dfffdf"| 6
+| bgcolor="#dfffdf"| 10 ||bgcolor="#dfffdf"| 7 ||bgcolor="#dfffdf"| 8  
+| bgcolor="#dfffdf"| 7 ||bgcolor="#dfffdf"| 4 ||bgcolor="#dfffdf"| 11   
+| bgcolor="#dfffdf"| 6 ||bgcolor="#dfffdf"| 4 ||bgcolor="#dfffdf"| 10  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|     
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 8
+|rowspan="2" align="left"| {{flagicon|ENG}} [[TheSixthAxis Racing]]
+| 7
+| bgcolor="#cfcfff"| 18  ||bgcolor="#efcfff"| Ret  ||bgcolor="#dfffdf"| 11  
+| bgcolor="#dfffdf"| 5  ||bgcolor="#efcfff"| Ret  ||bgcolor="#dfffdf"| 15  
+| bgcolor="#dfffdf"| 4  ||bgcolor="#dfffdf"| 6  ||bgcolor="#dfffdf"| 10  
+| bgcolor="#dfffdf"| 4  ||bgcolor="#dfffdf"| 4  ||bgcolor="#dfffdf"| 12
+| bgcolor="#dfffdf"| 12||bgcolor="#dfffdf"| 9 ||bgcolor="#efcfff"| Ret 
+| bgcolor="#cfcfff"| 26  ||bgcolor="#cfcfff"| 17  ||bgcolor="#dfffdf"| 7  
+| bgcolor="#dfffdf"| 12  ||bgcolor="#dfffdf"| 9  ||bgcolor="#dfffdf"| 5 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+!rowspan="2" align="right"| 173 
+|-
+| 8
+| bgcolor="#cfcfff"| 20  ||bgcolor="#dfffdf"| 14  ||bgcolor="#dfffdf"| 9 
+| bgcolor="#ffdf9f"| 3  ||bgcolor="#dfffdf"| 6  ||bgcolor="#dfffdf"| 11 
+| bgcolor="#cfcfff"| 32 ||bgcolor="#cfcfff"| 18 ||bgcolor="#cfcfff"| 16  
+| bgcolor="#cfcfff"| 35 ||bgcolor="#cfcfff"| 32 ||bgcolor="#cfcfff"| 19 
+| bgcolor="#dfffdf"| 13 ||bgcolor="#cfcfff"| 32 ||bgcolor="#cfcfff"| 18 
+| bgcolor="#dfffdf"| 9  ||bgcolor="#cfcfff"| 31  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#dfffdf"| 11  ||bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 21  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 9
+|rowspan="2" align="left"| {{flagicon|WAL}} [[Airastream]]
+| 16
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#dfffdf"| 4  ||bgcolor="#ffdf9f"| 3  ||bgcolor="#cfcfff"| 26   
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 17 ||bgcolor="#ffffbf"| 1   
+| bgcolor="#ffdf9f"| 3  ||bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 17 
+| bgcolor="#ffdf9f"| 3 ||bgcolor="#dfffdf"| 14||bgcolor="#dfdfdf"| 2
+| bgcolor="#cfcfff"| 30  ||bgcolor="#dfffdf"| 15  ||bgcolor="#ffffbf"| 1   
+| bgcolor="#cfcfff"| 31  ||bgcolor="#cfcfff"| 27  ||bgcolor="#dfffdf"| 15
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|      
+!rowspan="2" align="right"| 150
+|-
+| 17
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#dfffdf"| 10  ||bgcolor="#cfcfff"| 31{{Sup|†}}  ||bgcolor="#cfcfff"| 20   
+| bgcolor="#cfcfff"| 16 ||bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 25  
+| bgcolor="#dfffdf"| 14  ||bgcolor="#ffffff"| DNS  ||bgcolor="#cfcfff"| 23 
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 17  
+| bgcolor="#cfcfff"| 23  ||bgcolor="#efcfff"| Ret  ||bgcolor="#dfffdf"| 15   
+| bgcolor="#cfcfff"| 20  ||bgcolor="#dfffdf"| 13  ||bgcolor="#dfffdf"| 13   
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|    
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 10
+|rowspan="2" align="left"| {{flagicon|ENG}} [[Enterprise GP]]
+| 28
+| bgcolor="#dfffdf"| 15  ||bgcolor="#dfffdf"| 9  ||bgcolor="#cfcfff"| 20   
+| bgcolor="#dfffdf"| 12  ||bgcolor="#dfffdf"| 12  ||bgcolor="#dfffdf"| 5    
+| bgcolor="#cfcfff"| 18 ||bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 18  
+| bgcolor="#dfdfdf"| 2  ||bgcolor="#dfffdf"| 6  ||bgcolor="#dfffdf"| 9  
+| bgcolor="#dfffdf"| ''5'' ||bgcolor="#dfffdf"| 6 ||bgcolor="#dfffdf"| 14 
+| bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 18  ||bgcolor="#ffffff"| DNS   
+| bgcolor="#dfdfdf"| '''''2'''''  ||bgcolor="#dfffdf"| 5  ||bgcolor="#dfffdf"| 11  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|   
+!rowspan="2" align="right"| 144
+|-
+| 29
+| bgcolor="#cfcfff"| 17 ||bgcolor="#cfcfff"| 23 ||bgcolor="#efcfff"| Ret  
+| bgcolor="#dfffdf"| 11  ||bgcolor="#cfcfff"| 28  ||bgcolor="#dfffdf"| 13   
+| bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 19  
+| bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| 14  ||bgcolor="#cfcfff"| 16 
+| bgcolor="#cfcfff"| 25 ||bgcolor="#cfcfff"| 28 ||bgcolor="#efcfff"| Ret   
+| bgcolor="#cfcfff"| 25 ||bgcolor="#dfffdf"| 13 ||bgcolor="#efcfff"| Ret 
+| bgcolor="#cfcfff"| 16 ||bgcolor="#cfcfff"| 17 ||bgcolor="#cfcfff"| 24  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|       
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 11
+|rowspan="2" align="left"| {{flagicon|NOR}} [[Ice Cold Racing]]
+| 14
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#dfffdf"| 9  ||bgcolor="#ffffbf"| ''1''  ||bgcolor="#cfcfff"| 24  
+| bgcolor="#dfffdf"| 9 ||bgcolor="#dfffdf"| 5 ||bgcolor="#dfffdf"| 13  
+| bgcolor="#dfffdf"| 13 ||bgcolor="#dfffdf"| 8  ||bgcolor="#ffdf9f"| 3  
+| bgcolor="#efcfff"| Ret  ||bgcolor="#dfffdf"| 15  ||bgcolor="#dfffdf"| 4   
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|   
+!rowspan="2" align="right"| 129
+|-
+| 15
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#efcfff"| Ret ||bgcolor="#efcfff"| Ret  ||bgcolor="#ffffff"| DNS 
+| bgcolor="#cfcfff"| 32 ||bgcolor="#ffffff"| DNS ||bgcolor="#ffffff"| -  
+| bgcolor="#dfffdf"| 11  ||bgcolor="#ffdf9f"| 3  ||bgcolor="#dfffdf"| 8 
+| bgcolor="#dfffdf"| 10  ||bgcolor="#efcfff"| Ret ||bgcolor="#ffffff"| DNS  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|     
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 12
+|rowspan="2" align="left"| {{flagicon|ENG}} [[Aurora Motorsports]]
+| 38
+| bgcolor="#cfcfff"| 23 ||bgcolor="#cfcfff"| 17 ||bgcolor="#cfcfff"| 16  
+| bgcolor="#dfffdf"| 15 ||bgcolor="#dfffdf"| 15 ||bgcolor="#dfffdf"| 8   
+| bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 33 ||bgcolor="#cfcfff"| 26  
+| bgcolor="#cfcfff"| 16 ||bgcolor="#cfcfff"| 16 ||bgcolor="#dfffdf"| 8 
+| bgcolor="#cfcfff"| 20 ||bgcolor="#cfcfff"| 22 ||bgcolor="#cfcfff"| 19  
+| bgcolor="#dfffdf"| 10 ||bgcolor="#dfffdf"| 11 ||bgcolor="#cfcfff"| 18   
+| bgcolor="#cfcfff"| 17 ||bgcolor="#cfcfff"| 19 ||bgcolor="#cfcfff"| 17  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|       
+!rowspan="2" align="right"| 120
+|-
+| 39
+| bgcolor="#dfffdf"| 9  ||bgcolor="#dfffdf"| 13  ||bgcolor="#dfffdf"| 6  
+| bgcolor="#cfcfff"| 16  ||bgcolor="#cfcfff"| 22  ||bgcolor="#efcfff"| Ret   
+| bgcolor="#cfcfff"| 20  ||bgcolor="#dfffdf"| 13  ||bgcolor="#dfffdf"| 11  
+| bgcolor="#cfcfff"| 25  ||bgcolor="#cfcfff"| 25  ||bgcolor="#dfffdf"| 14
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 17 ||bgcolor="#dfffdf"| 6 
+| bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| 7  ||bgcolor="#cfcfff"| 25  
+| bgcolor="#dfffdf"| 7  ||bgcolor="#dfffdf"| 11  ||bgcolor="#dfdfdf"| ''2''  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|     
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 13
+|rowspan="2" align="left"| {{flagicon|ENG}} [[TTF Racing]]
+| 9
+| bgcolor="#cfcfff"| 22  ||bgcolor="#cfcfff"| 18  ||bgcolor="#dfffdf"| 10  
+| bgcolor="#cfcfff"| 24  ||bgcolor="#cfcfff"| 25  ||bgcolor="#efcfff"| Ret 
+| bgcolor="#cfcfff"| 30  ||bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 31  
+| bgcolor="#dfffdf"| 13  ||bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| 7  
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| -  
+| bgcolor="#dfffdf"| 14  ||bgcolor="#dfffdf"| 6  ||bgcolor="#dfffdf"| 4   
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|       
+!rowspan="2" align="right"| 80
+|-
+| 10
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 25 
+| bgcolor="#cfcfff"| 20  ||bgcolor="#cfcfff"| 17  ||bgcolor="#dfffdf"| 14 
+| bgcolor="#cfcfff"| 31 ||bgcolor="#cfcfff"| 28 ||bgcolor="#efcfff"| Ret   
+| bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 24 ||bgcolor="#efcfff"| Ret 
+| bgcolor="#cfcfff"| 27 ||bgcolor="#cfcfff"| 34 ||bgcolor="#cfcfff"| 25  
+| bgcolor="#cfcfff"| 28  ||bgcolor="#cfcfff"| 27  ||bgcolor="#cfcfff"| 20 
+| bgcolor="#dfffdf"| 5  ||bgcolor="#ffdf9f"| 3  ||bgcolor="#cfcfff"| 29  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|     
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 14
+|rowspan="2" align="left"| {{flagicon|ENG}} [[YTF1]]
+| 40
+| bgcolor="#dfffdf"| 12  ||bgcolor="#ffffff"| -  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#dfffdf"| 9  ||bgcolor="#dfffdf"| 10  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#dfffdf"| 13  ||bgcolor="#dfffdf"| 10  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#dfffdf"| 12  ||bgcolor="#dfffdf"| 10  ||bgcolor="#dfffdf"| 4  
+| bgcolor="#dfffdf"| 15 ||bgcolor="#cfcfff"| 23 ||bgcolor="#cfcfff"| 30  
+| bgcolor="#efcfff"| Ret  ||bgcolor="#efcfff"| Ret  ||bgcolor="#dfffdf"| 10  
+| bgcolor="#dfffdf"| 14  ||bgcolor="#dfffdf"| 12  ||bgcolor="#dfffdf"| 6  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|       
+!rowspan="2" align="right"| 74
+|-
+| 41
+| bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 24  
+| bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 26  ||bgcolor="#efcfff"| Ret 
+| bgcolor="#efcfff"| Ret ||bgcolor="#ffffff"| DNS ||bgcolor="#cfcfff"| 30  
+| bgcolor="#cfcfff"| 36{{Sup|†}}  ||bgcolor="#cfcfff"| 20  ||bgcolor="#cfcfff"| 20  
+| bgcolor="#cfcfff"| 21 ||bgcolor="#dfffdf"| 15 ||bgcolor="#efcfff"| Ret
+| bgcolor="#dfffdf"| 15  ||bgcolor="#cfcfff"| 16  ||bgcolor="#efcfff"| Ret   
+| bgcolor="#cfcfff"| 25  ||bgcolor="#cfcfff"| 23  ||bgcolor="#cfcfff"| 20  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 15
+|rowspan="2" align="left"| {{flagicon|ENG}} [[Hawkeye Racing]]
+| 20
+| bgcolor="#dfffdf"| 13  ||bgcolor="#dfffdf"| 7  ||bgcolor="#efcfff"| Ret 
+| bgcolor="#dfffdf"| 7  ||bgcolor="#dfffdf"| 8  ||bgcolor="#ffdf9f"| 3  
+| bgcolor="#dfffdf"| 15  ||bgcolor="#dfffdf"| 8  ||bgcolor="#dfffdf"| ''9''  
+| bgcolor="#efcfff"| Ret  ||bgcolor="#efcfff"| Ret  ||bgcolor="#ffffff"| DNS
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| -  
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - 
+| bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"| 27 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|       
+!rowspan="2" align="right"| 61
+|-
+| 21
+| bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 20 ||bgcolor="#efcfff"| Ret  
+| bgcolor="#cfcfff"| 23  ||bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 23  
+| bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"| 23  
+| bgcolor="#cfcfff"| 24  ||bgcolor="#cfcfff"| 27 ||bgcolor="#cfcfff"| 28
+| bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 26  
+| bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 23 ||bgcolor="#efcfff"| Ret   
+| bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 18 ||bgcolor="#efcfff"| Ret  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|    
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 16
+|rowspan="2" align="left"| {{flagicon|NED}} [[Racing Team Schroten]]
+| 22
+| bgcolor="#cfcfff"| 16  ||bgcolor="#dfffdf"| 12  ||bgcolor="#dfffdf"| 7  
+| bgcolor="#cfcfff"| 21  ||bgcolor="#cfcfff"| 29  ||bgcolor="#cfcfff"| 17   
+| bgcolor="#cfcfff"| 17  ||bgcolor="#cfcfff"| 19  ||bgcolor="#dfffdf"| 4  
+| bgcolor="#cfcfff"| 23  ||bgcolor="#dfffdf"| 15  ||bgcolor="#efcfff"| Ret 
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 20 ||bgcolor="#ffffbf"| 1  
+| bgcolor="#cfcfff"| 18  ||bgcolor="#dfffdf"| 12  ||bgcolor="#efcfff"| Ret   
+| bgcolor="#cfcfff"| 22  ||bgcolor="#efcfff"| Ret  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|       
+!rowspan="2" align="right"| 56
+|-
+| 23
+| bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"| 28 ||bgcolor="#cfcfff"| 23 
+| bgcolor="#cfcfff"| 22  ||bgcolor="#cfcfff"| 21  ||bgcolor="#cfcfff"| 25 
+| bgcolor="#cfcfff"| 28  ||bgcolor="#cfcfff"| 32  ||bgcolor="#cfcfff"| 28  
+| bgcolor="#cfcfff"| 30  ||bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 29
+| bgcolor="#cfcfff"| 28 ||bgcolor="#cfcfff"| 31 ||bgcolor="#cfcfff"| 27  
+| bgcolor="#cfcfff"| 27  ||bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 24   
+| bgcolor="#cfcfff"| 35{{Sup|†}}  ||bgcolor="#cfcfff"| 25  ||bgcolor="#cfcfff"| 26  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 17
+|rowspan="2" align="left"| {{flagicon|BEL}} [[Wauters Automotive]]
+| 32
+| bgcolor="#cfcfff"| 32{{Sup|†}} ||bgcolor="#cfcfff"| 29 ||bgcolor="#efcfff"| Ret 
+| bgcolor="#cfcfff"| 29  ||bgcolor="#cfcfff"| 20  ||bgcolor="#efcfff"| Ret
+| bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"| 20 ||bgcolor="#cfcfff"| 29   
+| bgcolor="#cfcfff"| 33 ||bgcolor="#efcfff"| Ret ||bgcolor="#efcfff"| Ret 
+| bgcolor="#cfcfff"| 17 ||bgcolor="#dfffdf"| 11 ||bgcolor="#cfcfff"| 20  
+| bgcolor="#cfcfff"| 32 ||bgcolor="#cfcfff"| 32 ||bgcolor="#cfcfff"| 22   
+| bgcolor="#efcfff"| Ret  ||bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 19  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|    
+!rowspan="2" align="right"| 37
+|-
+| 33
+| bgcolor="#cfcfff"| 27 ||bgcolor="#efcfff"| Ret ||bgcolor="#efcfff"| Ret  
+| bgcolor="#dfffdf"| 14  ||bgcolor="#cfcfff"| 32{{Sup|†}}  ||bgcolor="#cfcfff"| 28 
+| bgcolor="#dfffdf"| 10  ||bgcolor="#dfffdf"| 15  ||bgcolor="#efcfff"| Ret   
+| bgcolor="#dfffdf"| 15  ||bgcolor="#ffdf9f"| 3  ||bgcolor="#dfffdf"| 10 
+| bgcolor="#cfcfff"| 30 ||bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"|  22  
+| bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 33  ||bgcolor="#efcfff"| Ret    
+| bgcolor="#cfcfff"| 32 ||bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 30  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|       
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 18
+|rowspan="2" align="left"| {{flagicon|GER}} [[Green Stripes Racing]]
+| 26
+| bgcolor="#dfffdf"| 14  ||bgcolor="#dfffdf"| 11  ||bgcolor="#cfcfff"| 18  
+| bgcolor="#cfcfff"| 25  ||bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 22   
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#cfcfff"| 22  
+| bgcolor="#cfcfff"| 27  ||bgcolor="#cfcfff"| 19 ||bgcolor="#cfcfff"| 22 
+| bgcolor="#cfcfff"| 22 ||bgcolor="#cfcfff"| 28 ||bgcolor="#cfcfff"| 23   
+| bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 22 ||bgcolor="#dfffdf"| 14 
+| bgcolor="#cfcfff"| 23  ||bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 31   
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|          
+!rowspan="2" align="right"| 16
+|-
+| 27
+| bgcolor="#cfcfff"| 19 ||bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 19  
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 23  ||bgcolor="#cfcfff"| 21  
+| bgcolor="#cfcfff"| 23  ||bgcolor="#cfcfff"| 22  ||bgcolor="#cfcfff"| 21  
+| bgcolor="#cfcfff"| 29  ||bgcolor="#efcfff"| Ret  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#cfcfff"| 16 ||bgcolor="#cfcfff"| 18 ||bgcolor="#000000" style="color:white"| DSQ 
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 19  ||bgcolor="#dfffdf"| 9
+| bgcolor="#cfcfff"| 34{{Sup|†}}  ||bgcolor="#efcfff"| Ret  ||bgcolor="#ffffff"| DNS   
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 19
+|rowspan="2" align="left"| {{flagicon|ENG}} [[Optimum SimRacing]]
+| 24
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#cfcfff"| 31{{Sup|†}}  ||bgcolor="#cfcfff"| 18  ||bgcolor="#cfcfff"| 27  
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| -  
+| bgcolor="#cfcfff"| 34  ||bgcolor="#cfcfff"| 26  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - 
+| bgcolor="#cfcfff"| 33  ||bgcolor="#cfcfff"| 28  ||bgcolor="#cfcfff"| 23  
+| bgcolor="#cfcfff"| 27  ||bgcolor="#efcfff"| Ret  ||bgcolor="#cfcfff"| 28    
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+!rowspan="2" align="right"| 1
+|-
+| 25
+| bgcolor="#cfcfff"| 25  ||bgcolor="#cfcfff"| 22  ||bgcolor="#dfffdf"| 15  
+| bgcolor="#cfcfff"| 30  ||bgcolor="#cfcfff"| 24  ||bgcolor="#cfcfff"| 19  
+| bgcolor="#cfcfff"| 27  ||bgcolor="#cfcfff"| 27  ||bgcolor="#cfcfff"| 20  
+| bgcolor="#cfcfff"| 17  ||bgcolor="#cfcfff"| 30  ||bgcolor="#cfcfff"| 21 
+| bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 30 ||bgcolor="#cfcfff"| 29  
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 17 
+| bgcolor="#cfcfff"| 28 ||bgcolor="#cfcfff"| 21 ||bgcolor="#cfcfff"| 18   
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 20
+|rowspan="2" align="left"| {{flagicon|NED}} [[Measuric Racing]]
+| 34
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 25 ||bgcolor="#efcfff"| Ret 
+| bgcolor="#cfcfff"| 26  ||bgcolor="#cfcfff"| 30  ||bgcolor="#cfcfff"| 18   
+| bgcolor="#cfcfff"| 22  ||bgcolor="#cfcfff"| 25  ||bgcolor="#efcfff"| Ret  
+| bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 22 ||bgcolor="#cfcfff"| 27 
+| bgcolor="#cfcfff"| 23 ||bgcolor="#cfcfff"| 25 ||bgcolor="#cfcfff"| 21  
+| bgcolor="#cfcfff"| 24 ||bgcolor="#cfcfff"| 29 ||bgcolor="#cfcfff"| 19  
+| bgcolor="#cfcfff"| 26 ||bgcolor="#cfcfff"| 28 ||bgcolor="#cfcfff"| 23 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|         
+!rowspan="2" align="right"| 0
+|-
+| 35
+| bgcolor="#cfcfff"| 30 ||bgcolor="#ffffff"| - ||bgcolor="#cfcfff"| 22  
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - 
+| bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - ||bgcolor="#ffffff"| - 
+| bgcolor="#cfcfff"| 32 ||bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 30
+| bgcolor="#cfcfff"| 31 ||bgcolor="#cfcfff"| 33 ||bgcolor="#cfcfff"| 28   
+| bgcolor="#cfcfff"| 31 ||bgcolor="#efcfff"| Ret ||bgcolor="#cfcfff"| 21 
+| bgcolor="#cfcfff"| 33  ||bgcolor="#ffffff"| DNS ||bgcolor="#ffffff"| -  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|     
+|- style="border-top:2px solid #aaaaaa"
+|-
+!rowspan="2" align="left"| 21
+|rowspan="2" align="left"| {{flagicon|ENG}} [[SlipStream Racing]]
+| 14
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|   
+!rowspan="2" align="right"| 0
+|-
+| 15
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#cfcfff"| 19  ||bgcolor="#cfcfff"| 30  ||bgcolor="#ffffff"| DNS  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"| 
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  
+| bgcolor="#ffffff"|  ||bgcolor="#ffffff"|  ||bgcolor="#ffffff"|     
+|- style="border-top:2px solid #aaaaaa"
+|-
+|- valign="top"
+!valign="middle"| Pos
+!valign="middle"| Constructor
+!valign="middle"| Car<br />No.
+!colspan=3| [[2013 San Marino Touring Cup|SAN]]<br />{{flagicon|SAN}}
+!colspan=3| [[2013 Portuguese Touring Cup|POR]]<br />{{flagicon|POR}}
+!colspan=3| [[2013 Finnish Touring Cup|FIN]]<br />{{flagicon|FIN}}
+!colspan=3| [[2013 British Touring Cup|UK]]<br />{{flagicon|UK}}
+!colspan=3| [[2013 Canadian Touring Cup|CAN]]<br />{{flagicon|CAN}}
+!colspan=3| [[2013 American Touring Cup|USA]]<br />{{flagicon|USA}}
+!colspan=3| [[2013 Australian Touring Cup|AUS]]<br />{{flagicon|AUS}}
+!colspan=3| [[2013 Japanese Touring Cup|JPN]]<br />{{flagicon|JPN}}
+!valign="middle"| Points
+|}
+|valign="top"|
+{{F1 driver results legend 2}}
+<span style="font-size: 85%">'''Bold''' – Pole<br />
+''Italics'' – Fastest Lap</span>
+|}
+{{sup|†}} Cars did not finish the race, but were classified as they completed over 75% of the race distance.
+
+
+{{S-start}}
+{{Succession box
+| before = None
+| title = {{PAGENAME}}
+| years = Current Season
+| after = TBC
+}}
+{{S-end}}
+
+{{DEFAULTSORT:12}}
+[[Category:World Sport Series seasons]]
