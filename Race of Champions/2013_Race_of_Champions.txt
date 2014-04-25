@@ -1,0 +1,57 @@
+[[File:RoC 2011 Logo.png|right|200px]]
+The '''2013 Race of Champions''' was the third running of the [[GPVWC]] Race of Champions and was held on November 19th through to the 21st 2013. 2013 saw a new event added to the Race of Champions roster; the Individual Event in which 16 drivers battled it out to become an individual champion of champions. The Team Event was won by [[Douwe Tapper]] and [[James Johnson]] whilst the Individual Event was won by 2012 Team finalist [[Teemu Toikka]].
+
+==Formats==
+The Team Event included 32 drivers - selected from the 2013 season's top drivers - organized in pairs - comprising of the best available drivers from the [[Superleague]], [[Supercup]], [[Formula Challenge]], [[World Sport Series]], [[World GT Series|World GT]] and [[Masters Series]]. To guarantee a fair and balanced competition, the pairs were to be organised in inverted ranking orders, where possible, with the top ranked drivers pairing with the lower ranked drivers and vice versa. The teams were organised in a knock-out format, with the qualifiers taking place on November 19th and the final rounds on the 20th.
+
+The Individual Event followed a slightly different format taking 16 of the best available drivers from 2013; all chosen from the same categories as before. The drivers were then organised into four groups of 4 with care taken to base group selection on inverted ranking orders once again. All 4 drivers within a group would face each other with the two drivers winning the most races advancing to a more standard knock-out format. The entire event was held on November 21st. 
+
+===Knock-Out Format===
+
+Each 'match-up' will be comprised of a maximum of five, one 'full-lap' - twice over the line - races in a best-of-five format. This gives each driver in the pairing the opportunity to race both opponents. If a tie-break is required then the driver from each team with the least wins will go head to head to decide which team progresses to the next stage of the competition. For example;
+* Driver 1 vs ''Driver 3''
+* Driver 2 vs ''Driver 4''
+* Driver 1 vs ''Driver 4''
+* Driver 2 vs ''Driver 3''
+* - Tie Break if Required -
+
+===Timetable===
+
+'''Team Preliminary Rounds - Tuesday 19th November'''
+
+* 18:00 Bulk of Mod Released
+* 18:50 HDV & GDB Files Released
+* 19:00 Practice
+* 19:15 Race of Champions 2013
+
+'''Team Finals - Wednesday 20th November'''
+
+* 18:50 HDV Files Released
+* 19:00 Practice
+* 19:15 Race of Champions 2013
+
+'''Individual Event - Thursday 21st November'''
+
+* 19:00 Practice
+* 19:30 Race of Champions 2013
+
+==Results==
+
+The Team Event was won by [[Douwe Tapper]] and [[James Johnson]] who comfortably beat the only champion from 2013 in the final, [[Alex Cooper]], and his team mate [[Bart De Vos]]. 
+
+The full results of the 2013 GPVWC Team Race of Champions were as follows:
+
+[[File:2013 RoC Table.jpg|thumb|centre|800px|The draw for the competition]]
+
+The Individual Event was won by 2012 Race of Champions finalist [[Teemu Toikka]]. Toikka came up against [[Sven de Vries]] in the final but bossed the American winning three rounds consecutively from the go. 
+
+{{S-start}}
+{{Succession box
+| before = [[2012 Race of Champions]]
+| title = {{PAGENAME}}
+| years=
+| after = [[2014 Race of Champions]]
+}}
+{{S-end}}
+
+[[Category:Race of Champions]]
