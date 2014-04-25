@@ -1,0 +1,100 @@
+{{Infobox GT season
+| Image = [[File:GPVWC Banner 2013.png|300px]] |
+| Platform = [[File:rFactor.png|15px]] [[rFactor]] v1.255 |
+| Rounds = 8 |
+| Vehicles = Multiple |
+| Tyres = GPVWC |
+| Drivers =  |
+| Teams =  |
+| Drivers_Champion = N/A |
+| Teams_Champion = |
+}}
+{{2014 series box}}
+The '''2014 World GT Series''' will be the third [[World GT Series]] season. Following a highly successful 2013 season, World GT in 2014 was set to become [[GPVWC]]'s flagship rFactor 2 league. However, following news that the mod would not be ready on time and rising concerns over the 'feasibility' of an rFactor 2 based World GT season, the decision was taken to keep the series on rFactor for at least one more year.
+
+==2014 Calendar==
+
+{| class="wikitable" border="1" style="font-size: 90%"
+|-
+!rowspan="2"| Rounds
+!rowspan="2"| Race Title
+!rowspan="2"| [[List of GPVWC circuits|Circuit]]
+!rowspan="2"| Date
+!colspan="3"| Race Details
+|-
+! Track Time
+! GMT
+! Duration
+|-
+! 1
+| [[British GT Cup|6 Hours of Silverstone]]
+| {{flagicon|UK}} [[Silverstone Circuit]]
+| 29th March
+| align="middle" | 13:00
+| 16:00
+| 360 Min.
+|-
+! 2
+| [[Belgian GT Cup|6 Hours of Spa-Francorchamps]]
+| {{flagicon|BEL}} [[Circuit de Spa-Francorchamps]]
+| 26th April
+| align="middle" | 14:00
+| 16:00
+| 360 Min.
+|-
+! 3
+| [[American GT Cup|6 Hours of the Circuit of the Americas]]
+| {{flagicon|USA}} [[Circuit of the Americas]]
+| 24th May
+| align="middle" | 16:00
+| 16:00
+| 360 Min.
+|-
+! 4
+| [[24 Hours of Le Mans]]
+| {{flagicon|FRA}} [[Circuit de la Sarthe]]
+| 21st June
+| align="middle" | 14:00
+| 16:00
+| 1440 Min.
+|-
+! 5
+| [[Japanese GT Cup|6 Hours of Fuji]]
+| {{flagicon|JPN}} [[Fuji Speedway]]
+| 19th July
+| align="middle" | 14:00
+| 16:00
+| 360 Min.
+|-
+! 6
+| [[Chinese GT Cup|6 Hours of Shangai]]
+| {{flagicon|CHN}} [[Shanghai International Circuit]]
+| 16th August
+| align="middle" | 15:00
+| 15:00
+| 360 Min.
+|-
+! 7
+| [[Bahrain GT Cup|6 Hours of Bahrain]]
+| {{flagicon|BAH}} [[Bahrain International Circuit]]
+| 13th September
+| align="middle" | 15:00
+| 15:00
+| 360 Min.
+|-
+! 8
+| [[Brazilian GT Cup|6 Hours of Sao Paulo]]
+| {{flagicon|BRA}} [[Autódromo José Carlos Pace]]
+| 11th October
+| align="middle" | 12:00
+| 16:00
+| 360 Min.
+|-
+|}
+
+==Rule changes==
+
+===Sporting===
+*Races will be increased to 6 hours in length from 1 with the exception of the [[24 Hours of Le Mans]].
+*Teams must perform a driver swap during the 6 hours.
+*For the first time in GT history, no Drivers' championship will be contested. Instead, both drivers from each team will contribute towards the scoring of points for the team only (ie if Driver 'A' and Driver 'B' driving for Team 'X' finish first in a race, the team will score 25 points).

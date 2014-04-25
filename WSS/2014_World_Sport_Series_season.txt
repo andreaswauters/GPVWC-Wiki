@@ -1,0 +1,247 @@
+{{Infobox WSS season
+| Image = [[File:GPVWC Banner 2013.png|300px]]  |
+| Platform = [[File:rFactor.png|15px]] [[rFactor]] v1.255 |
+| Rounds = 10 |
+| Mod = EnduRacers Flat 6 |
+| Engines = Porsche |
+| Tyres = GPVWC |
+| Drivers =  | 
+| Teams =  | 
+| Drivers_Champion =   |
+| Teams_Champion =   |
+}}
+{{2014 series box}}
+The '''2014 World Sport Series season''' will be the third [[Grand Prix Virtual World Championship|GPVWC]] [[World Sport Series]] season. The 2014 season will be the first World Sport Series season to use a different mod to that found in the inaugural season. However, the Porsche 911 remains as the series' sole vehicle.
+
+==Report==
+
+===Race Weekend Format===
+
+19:00 GMT ~ Free Practice<br>
+19:35 GMT ~ Qualifying<br>
+19:50 GMT ~ Warmup<br>
+20:00 GMT ~ Race One Start<br>
+20:30-40 GMT ~ Warmup<br>
+20:40-50 GMT ~ Race Two Start<br>
+
+==2014 Calendar==
+
+{| class="wikitable" border="1" style="font-size: 85%"
+|-
+!rowspan="2"| Round
+!rowspan="2"| Race Title
+!rowspan="2"| Event
+!rowspan="2"| [[List of GPVWC circuits|Circuit]]
+!rowspan="2"| Conditions
+!rowspan="2"| Mod
+!rowspan="2"| Date{{sup|†}}
+!colspan="2"| Time
+|-
+! Laps
+! GMT/BST
+|-
+! 1
+| [[Bahrain Sport Series]]
+| [[2014 Bahrain Grand Prix|Bahrain GP]]
+| {{flagicon|BAH}} [[Bahrain International Circuit]], Sakhir
+|  TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 2nd April
+| 13/13
+| 19:00
+|-
+! 2
+| [[Spanish Sport Series]]
+| [[2014 Spanish Grand Prix|Spanish GP]]
+| {{flagicon|ESP}} [[Circuit de Catalunya]], Barcelona
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 16th April
+| 14/14
+| 19:00
+|-
+! 3
+| [[Monaco Sport Series]]
+| [[2014 Monaco Grand Prix|Monaco GP]]
+| {{flagicon|MON}} [[Circuit de Monaco]], Monte Carlo
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 30th April
+| 20/20
+| 19:00
+|-
+! 4
+| [[Canadian Sport Series]]
+| [[2014 Canadian Grand Prix|Candian GP]]
+| {{flagicon|CAN}} [[Circuit Gilles Villeneuve]], Montreal
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 14th May
+| 15/15
+| 19:00
+|-
+! 5
+| [[Austrian Sport Series]]
+| [[2014 Austrian Grand Prix|Austrian GP]]
+| {{flagicon|AUT}} [[Red Bull Ring]], Spielberg
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 28th June
+| 15/15
+| 19:00
+|-
+! 6
+| [[British Sport Series]]
+| [[2014 British Grand Prix|British GP]]
+| {{flagicon|UK}} [[Silverstone Circuit]], Northamptonshire
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 11th July
+| 20/20
+| 19:00
+|-
+! 7
+| [[German Sport Series]]
+| [[2014 German Grand Prix|German GP]]
+| {{flagicon|GER}} [[Hockenheimring]], Hockenheim
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 25th July
+| 10/10
+| 19:00
+|-
+! 8
+| [[Hungarian Sport Series]]
+| [[2014 Hungarian Grand Prix|Hungarian GP]]
+| {{flagicon|HUN}} [[Hungaroring]], Budapest
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 9th August
+| 15/15
+| 19:00
+|-
+! 9
+| [[Belgian Sport Series]]
+| [[2014 Belgian Grand Prix|Belgian GP]]
+| {{flagicon|BEL}} [[Circuit de Spa-Francorchamps]], Spa
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 20th August
+| 10/10
+| 19:00
+|-
+! 10
+| [[Italian Sport Series]]
+| [[2014 Italian Grand Prix|Italian GP]]
+| {{flagicon|ITA}} [[Autodromo Nazionale di Monza]], Monza
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 3rd September
+| 12/12
+| 19:00
+|-
+|}
+
+==Results and standings==
+===Grands Prix===
+{| class="wikitable sortable" style="font-size:95%"
+! Rd.
+! [[List of Superleague Grands Prix|Grands Prix]]
+! [[Pole Position]]
+! Race One Fastest
+! Race One Winner
+! Race Two Fastest
+! Race Two Winner
+!class="unsortable"| Report
+|-
+! 1
+| {{flagicon|BAH}} [[Bahrain Sport Series]]
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+|  {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| [[2014 Bahrain Sport Series|Report]]
+|-
+! 2
+| {{flagicon|ESP}} [[Spanish Sport Series]]
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+|  {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| [[2014 Spanish Sport Series|Report]]
+|-
+! 3
+| {{flagicon|MON}} [[Monaco Sport Series]]
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+|  {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| [[2014 Monaco Sport Series|Report]]
+|-
+! 4
+| {{flagicon|CAN}} [[Canadian Sport Series]]
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+|  {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| [[2014 Canadian Sport Series|Report]]
+|-
+! 5
+| {{flagicon|AUT}} [[Austrian Sport Series]]
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+|  {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| [[2014 Austrian Sport Series|Report]]
+|-
+! 6
+| {{flagicon|UK}} [[British Sport Series]]
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+|  {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| [[2014 British Sport Series|Report]]
+|-
+! 7
+| {{flagicon|GER}} [[German Sport Series]]
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+|  {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| [[2014 German Sport Series|Report]]
+|-
+! 8
+| {{flagicon|HUN}} [[Hungarian Sport Series]]
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+|  {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| [[2014 Hungarian Sport Series|Report]]
+|-
+! 9
+| {{flagicon|BEL}} [[Belgian Sport Series]]
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+|  {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| [[2014 Belgian Sport Series|Report]]
+|-
+! 10
+| {{flagicon|ITA}} [[Italian Sport Series]]
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+|  {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| align="center"| {{flagicon|blank}}  <br><small>(-)</small>
+| {{flagicon|blank}} <br><small>{{flagicon|blank}} </small>
+| [[2014 Italian Sport Series|Report]]
+|-
+|}

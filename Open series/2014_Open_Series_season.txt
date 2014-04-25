@@ -1,0 +1,330 @@
+{{Infobox Open Series season
+| Image = [[File:GPVWC Banner 2013.png|300px]] |
+| Sponsor = TBC |
+| Platform = [[File:rFactor.png|15px]] [[rFactor]] v1.255 |
+| Rounds = 17 |
+| Mod = Custom |
+| Engines = GPVWC |
+| Tyres = GPVWC |
+| Drivers = - | 
+}}
+{{2014 series box}}
+The '''2014 Open Series season''' will be the first ever [[Grand Prix Virtual World Championship|GPVWC]] [[Open Series]] season. 
+
+==2014 Calendar==
+
+{| class="wikitable" border="1" style="font-size: 85%"
+|-
+!rowspan="2"| Round
+!rowspan="2"| Race Title
+!rowspan="2"| Grand Prix
+!rowspan="2"| [[List of GPVWC circuits|Circuit]]
+!rowspan="2"| Conditions
+!rowspan="2"| Mod
+!rowspan="2"| Date
+!colspan="2"| Start Time
+|-
+! Track time
+! GMT
+|-
+! 1
+| [[Australian Grand Prix]]
+| [[2014 Australian Grand Prix|Australian GP]]
+| {{flagicon|AUS}} [[Melbourne Grand Prix Circuit|Albert Park Grand Prix Circuit]], Melbourne
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255 
+| 25th February
+| 16:00
+| 19:00
+|-
+! 2
+| [[Malaysian Grand Prix]]
+| [[2014 Malaysian Grand Prix|Malaysian GP]]
+| {{flagicon|MYS}} [[Sepang International Circuit]], Selangor
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 11th March
+| 16:00
+| 19:00
+|-
+! 3
+| [[Bahrain Grand Prix]]
+| [[2014 Bahrain Grand Prix|Bahrain GP]]
+| {{flagicon|BAH}} [[Bahrain International Circuit]], Sakhir
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 25th March
+| 15:00
+| 19:00
+|-
+! 4
+| [[Chinese Grand Prix]]
+| [[2014 Chinese Grand Prix|Chinese GP]]
+| {{flagicon|CHN}} [[Shanghai International Circuit]], Shanghai
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 8th April
+| 15:00
+| 19:00
+|-
+! 5
+| [[Spanish Grand Prix]]
+| [[2014 Spanish Grand Prix|Spanish GP]]
+| {{flagicon|ESP}} [[Circuit de Catalunya]], Barcelona
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 22nd April
+| 14:00
+| 19:00
+|-
+! 6
+| [[Monaco Grand Prix]]
+| [[2014 Monaco Grand Prix|Monaco GP]]
+| {{flagicon|MON}} [[Circuit de Monaco]], Monte Carlo
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 6th May
+| 14:00
+| 19:00
+|-
+! 7
+| [[Canadian Grand Prix]]
+| [[2014 Canadian Grand Prix|Canadian GP]]
+| {{flagicon|CAN}} [[Circuit Gilles Villeneuve]], Montreal
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 20th May
+| 14:00
+| 19:00
+|-
+! 8
+| [[Austrian Grand Prix]]
+| [[2014 Austrian Grand Prix|Austrian GP]]
+| {{flagicon|AUT}} [[Red Bull Ring]], Spielberg
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 3rd June
+| 14:00
+| 19:00
+|-
+! 9
+| [[British Grand Prix]]
+| [[2014 British Grand Prix|British GP]]
+| {{flagicon|UK}} [[Silverstone Circuit]], Northamptonshire
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 17th June
+| 13:00
+| 19:00
+|-
+! 10
+| [[German Grand Prix]]
+| [[2014 German Grand Prix|German GP]]
+| {{flagicon|GER}} [[Hockenheimring]], Hockenheim
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 1st July
+| 14:00
+| 19:00
+|-
+! 11
+| [[Hungarian Grand Prix]]
+| [[2014 Hungarian Grand Prix|Hungarian GP]]
+| {{flagicon|HUN}} [[Hungaroring]], Budapest
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 15th July
+| 14:00
+| 19:00
+|-
+! 12
+| [[Belgian Grand Prix]]
+| [[2014 Belgian Grand Prix|Belgian GP]]
+| {{flagicon|BEL}} [[Circuit de Spa-Francorchamps]], Spa
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 12th August
+| 14:00
+| 19:00
+|-
+! 13
+| [[Italian Grand Prix]]
+| [[2014 Italian Grand Prix|Italian GP]]
+| {{flagicon|ITA}} [[Autodromo Nazionale di Monza]], Monza
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 26th August
+| 14:00
+| 19:00
+|-
+! 14
+| [[United States Grand Prix]]
+| [[2014 United States Grand Prix|United States GP]]
+| {{flagicon|USA}} [[Circuit of the Americas]], Austin
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 9th September
+| 13:00
+| 19:00
+|-
+! 15
+| [[Abu Dhabi Grand Prix]]
+| [[2014 Abu Dhabi Grand Prix|Abu Dhabi GP]]
+| {{flagicon|UAE}} [[Yas Marina Circuit]], Yas Island
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 23rd September
+| 17:00
+| 19:00
+|-
+! 16
+| [[Japanese Grand Prix]]
+| [[2014 Japanese Grand Prix|Japanese GP]]
+| {{flagicon|JPN}} [[Suzuka Circuit]], Suzuka, Mie
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 7th October
+| 15:00
+| 19:00
+|-
+! 17
+| [[Brazilian Grand Prix]]
+| [[2014 Brazilian Grand Prix|Brazilian GP]]
+| {{flagicon|BRA}} [[Autódromo José Carlos Pace]], São Paulo
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 21st October
+| 14:00
+| 19:00
+|}
+
+===Grands Prix===
+
+{| class="wikitable sortable" style="font-size:95%"
+! Rd.
+! [[List of Superleague Grands Prix|Grands Prix]]
+! [[Pole position]]
+! [[Fastest lap]]
+! Winning driver
+!class="unsortable"| Report
+|-
+! 1
+| {{flagicon|AUS}} [[Open Australian Grand Prix]]
+| align="center"| {{flagicon|blank}} 
+| align="center"| {{flagicon|blank}} 
+| {{flagicon|blank}} 
+| [[2014 Australian Grand Prix|Report]]
+|-
+! 2
+| {{flagicon|MYS}} [[Open Malaysian Grand Prix]]
+| align="center"| {{flagicon|blank}} 
+| align="center"| {{flagicon|blank}} 
+| {{flagicon|blank}}  
+| [[2014 Malaysian Grand Prix|Report]]
+|-
+! 3
+| {{flagicon|BAH}} [[Open Bahrain Grand Prix]]
+| align="center"| {{flagicon|blank}} 
+| align="center"| {{flagicon|blank}} 
+| {{flagicon|blank}} 
+| [[2014 Bahrain Grand Prix|Report]]
+|-
+! 4
+| {{flagicon|CHN}} [[Open Chinese Grand Prix]]
+| align="center"| {{flagicon|blank}} 
+| align="center"| {{flagicon|blank}} 
+| {{flagicon|blank}}  
+| [[2014 Chinese Grand Prix|Report]]
+|-
+! 5
+| {{flagicon|ESP}} [[Open Spanish Grand Prix]]
+| align="center"| {{flagicon|blank}} 
+| align="center"| {{flagicon|blank}} 
+| {{flagicon|blank}}  
+| [[2014 Spanish Grand Prix|Report]]
+|-
+! 6
+| {{flagicon|MON}} [[Open Monaco Grand Prix]]
+| align="center"| {{flagicon|blank}} 
+| align="center"| {{flagicon|blank}} 
+| {{flagicon|blank}} 
+| [[2014 Monaco Grand Prix|Report]]
+|-
+! 7
+| {{flagicon|CAN}} [[Open Canadian Grand Prix]]
+| align="center"| {{flagicon|blank}} 
+| align="center"| {{flagicon|blank}} 
+| {{flagicon|blank}} 
+| [[2014 Canadian Grand Prix|Report]]
+|-
+! 8
+| {{flagicon|AUT}} [[Open Austrian Grand Prix]]
+| align="center"| {{flagicon|blank}} 
+| align="center"| {{flagicon|blank}} 
+| {{flagicon|blank}} 
+| [[2014 Austrian Grand Prix|Report]]
+|-
+! 9
+| {{flagicon|UK}} [[Open British Grand Prix]]
+| align="center"| {{flagicon|blank}} 
+| align="center"| {{flagicon|blank}} 
+| {{flagicon|blank}} 
+| [[2014 British Grand Prix|Report]]
+|-
+! 10
+| {{flagicon|GER}} [[Open German Grand Prix]]
+| align="center"| {{flagicon|blank}} 
+| align="center"| {{flagicon|blank}} 
+| {{flagicon|blank}} 
+| [[2014 German Grand Prix|Report]]
+|-
+! 11
+| {{flagicon|HUN}} [[Open Hungarian Grand Prix]]
+| align="center"| {{flagicon|blank}} 
+| align="center"| {{flagicon|blank}} 
+| {{flagicon|blank}} 
+| [[2014 Hungarian Grand Prix|Report]]
+|-
+! 12
+| {{flagicon|BEL}} [[Open Belgian Grand Prix]]
+| align="center"| {{flagicon|blank}} 
+| align="center"| {{flagicon|blank}} 
+| {{flagicon|blank}} 
+| [[2014 Belgian Grand Prix|Report]]
+|-
+! 13
+| {{flagicon|ITA}} [[Open Italian Grand Prix]]
+| align="center"| {{flagicon|blank}} 
+| align="center"| {{flagicon|blank}} 
+| {{flagicon|blank}}  
+| [[2014 Italian Grand Prix|Report]]
+|-
+! 14
+| {{flagicon|USA}} [[Open United States Grand Prix]]
+| align="center"| {{flagicon|blank}} 
+| align="center"| {{flagicon|blank}} 
+| {{flagicon|blank}} 
+| [[2014 United States Grand Prix|Report]]
+|-
+! 15
+| {{flagicon|UAE}} [[Open Abu Dhabi Grand Prix]]
+| align="center"| {{flagicon|blank}} 
+| align="center"| {{flagicon|blank}} 
+| {{flagicon|blank}} 
+| [[2014 Abu Dhabi Grand Prix|Report]]
+|-
+! 16
+| {{flagicon|JPN}} [[Open Japanese Grand Prix]]
+| align="center"| {{flagicon|blank}} 
+| align="center"| {{flagicon|blank}} 
+| {{flagicon|blank}}  
+| [[2014 Japanese Grand Prix|Report]]
+|-
+! 17
+| {{flagicon|BRA}} [[Open Brazilian Grand Prix]]
+| align="center"| {{flagicon|blank}} 
+| align="center"| {{flagicon|blank}} 
+| {{flagicon|blank}} 
+| [[2014 Brazilian Grand Prix|Report]] 
+|-
+|}

@@ -1,0 +1,127 @@
+{{Infobox MS season
+| Image = [[File:Masters2011.png|200px]]  |
+| Platform = [[File:rFactor.png|15px]] [[rFactor]] v1.255|
+| Rounds = 5 |
+| Vehicles = Multiple |
+| Tyres = Multiple |
+| Drivers =  |
+| Teams =  |
+| Drivers_Champion =  |
+| Teams_Champion = N/A |
+}}
+{{2014 series box}}
+The '''2014 Masters Series''' will be the the sixth season of the [[Masters Series]] at the [[Grand Prix Virtual World Championship|GPVWC]].
+
+===Series Changes===
+
+After just one season of trialing rFactor 2, the Masters series will return to the original rFactor platform. The biggest change however is the switch to an endurance season using different vehicles at every event. This is in stark contrast to what has been seen previously; a standard touring car season with everyone using the same vehicle for all rounds. Furthermore, no Teams' championship will be contested; the focus of the series moves purely to who is the 'Master' of all the vehicles.
+
+==2014 Calendar==
+
+{| class="wikitable" border="1" style="font-size: 90%"
+|-
+!rowspan="2"| Round
+!rowspan="2"| Race Title
+!rowspan="2"| Category
+!rowspan="2"| [[List of GPVWC circuits|Circuit]]
+!rowspan="2"| Date
+!colspan="3"| Race Details
+|-
+! Track Time
+! GMT
+! Laps
+|-
+! 1
+| [[Daytona Masters|Daytona 500 Masters]]
+| NASCAR
+| {{flagicon|USA}} [[Daytona International Speedway]], Florida
+| align="middle" | 15th March
+| 16:00
+| 16:00
+| TBC
+|-
+! 2
+| [[Indianapolis Masters|Indy 500 Masters]]
+| Indycar
+| {{flagicon|USA}} [[Indianapolis Motor Speedway]], Indiana
+| align="middle" | 10th May
+| 16:00
+| 16:00
+| TBC
+|-
+! 3
+| [[24 Hours of Le Mans]]
+| GT
+| {{flagicon|FRA}} [[Circuit de la Sarthe]], Le Mans
+| align="middle" | 21st June
+| 14:00
+| 16:00
+| TBC
+|-
+! 4
+| [[24 Hours of the Nordschleife]]
+| Touring Car Legends
+| {{flagicon|GER}} [[Nordschleife]], Nurburg
+| align="middle" | 30th August
+| 14:00
+| 16:00
+| TBC
+|-
+! 5
+| [[Bathurst Masters|Bathurst 1000 Masters]]
+| V8 Supercars
+| {{flagicon|AUS}} [[Mount Panorama Circuit]], Bathurst
+| align="middle" | 27th September
+| 16:00
+| 16:00
+| TBC
+|-
+|}
+
+==Results and standings==
+===Grands Prix===
+
+{| class="wikitable sortable" style="font-size:95%"
+! Rd.
+! [[List of Superleague Grands Prix|Grands Prix]]
+! [[Pole position]]
+! [[Fastest lap]]
+! Winning driver
+!class="unsortable"| Report
+|-
+! 1
+| {{USA}} [[Daytona Masters|Daytona 500 Masters]]
+| align="center"| {{blank}} <br><small>(-)</small>
+| align="center"| {{blank}} <br><small>(-)</small>
+| {{blank}} 
+| [[2014 Daytona Masters|Report]]
+|-
+! 2
+| {{USA}} [[Indianapolis Masters|Indy 500 Masters]]
+| align="center"| {{blank}} <br><small>(-)</small>
+| align="center"| {{blank}} <br><small>(-)</small>
+| {{blank}} 
+| [[2014 Indianapolis Masters|Report]]
+|-
+! 3
+| {{FRA}} [[24 Hours of Le Mans]]
+| align="center"| {{blank}} <br><small>(-)</small>
+| align="center"| {{blank}} <br><small>(-)</small>
+| {{blank}}  
+| [[2014 24 Hours of Le Mans|Report]]
+|-
+! 4
+| {{GER}} [[24 Hours of the Nordschleife]]
+| align="center"| {{blank}} <br><small>(-)</small>
+| align="center"| {{blank}} <br><small>(-)</small>
+| {{blank}} 
+| [[2014 24 Hours of the Nordschleife|Report]]
+|-
+! 5
+| {{AUS}} [[Bathurst Masters|Bathurst 1000 Masters]]
+| align="center"| {{blank}} <br><small>(-)</small>
+| align="center"| {{blank}} <br><small>(-)</small>
+| {{blank}}  
+| [[2014 Bathurst Masters|Report]]
+|-
+|}

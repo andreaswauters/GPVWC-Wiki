@@ -1,0 +1,1474 @@
+{{Infobox SC season
+| Image = [[File:GPVWC Banner 2013.png|300px]] |
+| Sponsor = None |
+| Platform = [[File:rFactor.png|15px]] [[rFactor]] v1.255 |
+| Rounds = 17 |
+| Mod = Custom |
+| Carshape = - |
+| Engines = GPVWC |
+| Tyres = GPVWC |
+| Drivers = - |
+| Teams = 15 |
+| Drivers_Champion =   |
+| Teams_Champion =   | 
+}}
+{{2014 series box}}
+The '''2014 Supercup season''' will be the 7th [[Grand Prix Virtual World Championship|GPVWC]] [[Supercup]] season.
+
+==Teams and drivers==
+
+The following teams have confirmed their 2014 participation.
+
+{| class="wikitable" border="1" style="font-size: 85%;"
+!Supercup Team
+!Base
+!Constructor
+!Chassis
+!Tyre
+!{{Tooltip|No.|Car number}}
+!Race Drivers
+!Rounds
+!Test/Reserve Driver(s)
+|-
+|rowspan=2| {{SWI}} [[Scuderia Basilea]]
+|rowspan=2| {{SWI}} Binningen, Switzerland 
+!rowspan=2| [[Basilea]]
+|rowspan=2| SC-014
+|rowspan=2 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=1| 0
+| {{ITA}} [[Yuri Oggiano]] 
+| 
+|rowspan=2 align="left"| {{ITA}} [[Matteo Zandona]] 
+|-
+| align="center" rowspan=1| 2
+| {{FIN}} [[Mikko Jakonen]] 
+| 
+|-
+|rowspan=2| {{MAL}} [[Malta Force GP]]
+|rowspan=2| {{MAL}} Siggiewi, Malta
+!rowspan=2| [[Malta Force]]
+|rowspan=2| SC-014
+|rowspan=2 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=1| 3
+| {{NED}} [[Menno Klont]]
+| 
+|rowspan=2 align="left"| {{blank}}
+|-
+| align="center"| 4
+| {{USA}} [[Patrick Gatewood]] 
+| 
+|-
+|rowspan=2| {{USA}} [[Satellite Racing]]
+|rowspan=2| {{USA}} West Palm Beach, FL, United States
+!rowspan=2| [[Satellite]]
+|rowspan=2| SC-014
+|rowspan=2 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=1| 5
+| {{USA}} [[Sven de Vries]]
+| 
+|rowspan=2 align="left"| {{blank}}
+|-
+| align="center" rowspan=1| 6
+| {{USA}} [[Brandon Warren]]
+| 
+|-
+|rowspan=2| {{AUS}} [[Streetfighter Racing Systems]]
+|rowspan=2| {{AUS}} Sydney, Australia
+!rowspan=2| [[Streetfighter]]
+|rowspan=2| SC-014
+|rowspan=2 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=1| 7
+| {{NED}} [[Douwe Tapper]] 
+| 
+|rowspan=2 align="left"| {{ENG}} [[James Johnson]]
+|-
+| align="center"| 8
+| {{FIN}} [[Mikko Suokas]] 
+| 
+|-
+|rowspan=2| {{ENG}} [[PB Racing]]
+|rowspan=2| {{ENG}} Swindon, England
+!rowspan=2| [[PB Racing|PB]]
+|rowspan=2| SC-014
+|rowspan=2 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=1| 9
+| {{GER}} [[Maurice Brackhahn]]
+| 
+|rowspan=2 align="left"| {{blank}}
+|-
+| align="center" rowspan=1| 10
+| {{GER}} [[Philipp Puschke]]
+| 
+|-
+|rowspan=2| {{FIN}} [[FA Racing]]
+|rowspan=2| {{FIN}} Lahti, Finland
+!rowspan=2| [[FA Racing|FA]]
+|rowspan=2| SC-014 
+|rowspan=2 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=1| 11
+| {{IRL}} [[Philip Cullen]] 
+| 
+|rowspan=2 align="left"| {{blank}} 
+|-
+| align="center" rowspan=1| 12
+| {{ENG}} [[Tom Parker]] 
+| 
+|-
+|rowspan=2| {{RSA}} [[Centurion Grand Prix]]
+|rowspan=2| {{RSA}} Centurion, South Africa
+!rowspan=2| [[Centurion]]
+|rowspan=2| SC-014
+|rowspan=2 align="center"| {{GPVWC tyres}}
+|rowspan=1 align="center"| 14
+| {{ROM}} [[Dan Rusu]]
+|
+|rowspan=2 align="left"| {{WAL}} [[Matt Richards]] 
+|-
+|rowspan=1 align="center"| 15
+| {{IRL}} [[Martin O'Connor]] 
+| 
+|-
+|rowspan=2| {{BEL}} [[Fox Racing]]
+|rowspan=2| {{BEL}} Kessel, Belgium
+!rowspan=2| [[Fox]]
+|rowspan=2| SC-014
+|rowspan=2 align="center"| {{GPVWC tyres}}
+|rowspan=1 align="center"| 16
+| {{BEL}} [[Andreas Wauters]] 
+| 
+|rowspan=2 align="left"| {{blank}}
+|-
+|rowspan=1 align="center"| 17
+| {{GER}} [[Christoph Lichtenstein]] 
+| 
+|-
+|rowspan=2| {{ROM}} [[Storm Racing Team]]
+|rowspan=2| {{ROM}} Cluj-Napoca, Romania
+!rowspan=2| [[Storm]]
+|rowspan=2| SC-014
+|rowspan=2 align="center"| {{GPVWC tyres}}
+|rowspan=1 align="center"| 18
+| {{ROM}} [[Emanuel Gaczella]] 
+| 
+|rowspan=2 align="left"| {{ENG}} [[Scott Berrisford]]
+|-
+|rowspan=1 align="center"| 19
+| {{ENG}} [[Adrian McNaughton]] 
+| 
+|-
+|rowspan=2| {{NED}} [[Edonis Engineering]] 
+|rowspan=2| {{NED}} Groningen, The Netherlands 
+!rowspan=2| [[Edonis Engineering|Edonis]]
+|rowspan=2| SC-014
+|rowspan=2 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=1| 20
+| {{MAL}} [[Jason Muscat]]  
+|
+|rowspan=2 align="left"| {{flagicon|SLV}} [[Jernej Simončič]]
+|-
+| rowspan=1 align="center"| 21
+| {{FIN}} [[Oskari Kantonen]]
+| 
+|-
+|rowspan=2| {{BEL}} [[Wauters Automotive]]
+|rowspan=2| {{BEL}} Tielrode, Belgium
+!rowspan=2| [[Wauters]]
+|rowspan=2| SC-014
+|rowspan=2 align="center"| {{GPVWC tyres}}
+| align="center" rowspan=1| 22 
+| {{BEL}} [[Bart De Vos]] 
+| 
+|rowspan=2 align="left"| {{NED}} [[Mike Schroten]]
+|-
+| align="center" rowspan=1| 23
+| {{BEL}} [[Steve Verloy]] 
+| 
+|-
+|rowspan=2| {{USA}} [[SimCraft Racing]]
+|rowspan=2| {{USA}} Marietta, GA, United States
+!rowspan=2| [[SimCraft]]
+|rowspan=2| SC-014
+|rowspan=2 align="center"| {{GPVWC tyres}}
+|rowspan=1 align="center"| 24
+| {{ENG}} [[Alex Cooper]]  
+| 
+|rowspan=2 align="left"| {{blank}}
+|-
+|rowspan=1 align="center"| 25
+| {{GER}} [[Florian Geier]] 
+| 
+|-
+|rowspan=2| {{NED}} [[Measuric Racing]]
+|rowspan=2| {{NED}} Bennekom, The Netherlands
+!rowspan=2| [[Measuric]]
+|rowspan=2| SC-014
+|rowspan=2 align="center"| {{GPVWC tyres}}
+|rowspan=1 align="center"| 26 
+| {{FIN}} [[Ari Nieminen]]
+| 
+|rowspan=2 align="left"| {{blank}} 
+|-
+| align="center" rowspan=1| 27
+| {{ENG}} [[Mike Bell]] 
+| 
+|-
+|rowspan=2| {{ESP}} [[Positive SimRacing]]
+|rowspan=2| {{ESP}} Madrid, Spain
+!rowspan=2| [[Positive]]
+|rowspan=2| SC-014
+|rowspan=2 align="center"| {{GPVWC tyres}}
+|rowspan=1 align="center"| 28
+| {{AUT}} [[Kevin Siggy]] 
+| 
+|rowspan=2 align="left"| {{blank}} 
+|-
+| align="center" rowspan=1| 29
+| {{HUN}} [[Balasz Remenyik]] 
+| 
+|-
+|rowspan=2| {{ENG}} [[TheSixthAxis Racing]]
+|rowspan=2| {{ENG}} Stowmarket, England
+!rowspan=2| [[TSA]]
+|rowspan=2| SC-014
+|rowspan=2 align="center"| {{GPVWC tyres}}
+|rowspan=1 align="center"| 30
+| {{ENG}} [[Thomas Jacobs]]
+| 
+|rowspan=2 align="left"| {{ENG}} [[Matthew Williams]] 
+|-
+| align="center" rowspan=1| 31
+| {{ENG}} [[Cameron Brewster]]
+| 
+|-
+|}
+
+===Team changes===
+
+* [[CSG Racing]], [[Target Racing]] and [[Vod:Bul Racing]] were all promoted to the Superleague for the 2014 season.
+* [[Innervision]], despite a strong 2013 and only serving two years in the Supercup, chose not to re-apply for 2014.
+* [[PP Dynamic Motorsport]] (who entered Supercup at the same time as Innervision) had, by contrast, an awful 2013 finishing second from bottom in the Teams' Championship. They too chose not to re-apply for 2014.
+
+===New entries===
+
+The number of team entries increased to 15 for the 2014 Supercup season with 7 spots available for new teams. Five of the new teams were directly promoted from [[Formula Challenge]].
+
+* [[Storm Racing Team]] entered Supercup with two years experience in Formula Challenge; strongly challenging in the 2013 Formula Challenge season Teams' Championship.
+* [[Edonis Engineering]] were also promoted to the Supercup after a strong campaign in the 2013 Formula Challenge season which saw them take six wins and third in the Teams' Championship.
+* [[Wauters Automotive]], [[Measuric Racing]] and [[Positive SimRacing]] were all accepted on the foundations of good results in Formula Challenge as well as a fundamental ambition to do well in Supercup and beyond.
+* [[SimCraft Racing]] was accepted as the reformed version of the [[Multi21 Racing Team]] which took part in the 2013 Formula Challenge season. 
+* [[TheSixthAxis Racing]] was accepted as the team had established itself well in other categories during the 2013 season; specifically [[World GT Series|World GT]], the [[Masters Series]] and the [[International Touring Cup]].
+
+==2014 Calendar==
+
+{| class="wikitable" border="1" style="font-size: 85%"
+|-
+!rowspan="2"| Round
+!rowspan="2"| Race Title
+!rowspan="2"| Grand Prix
+!rowspan="2"| [[List of GPVWC circuits|Circuit]]
+!rowspan="2"| Conditions
+!rowspan="2"| Mod
+!rowspan="2"| Date
+!colspan="2"| Start Time
+|-
+! Track time
+! GMT
+|-
+! 1
+| [[Australian Grand Prix]]
+| [[2014 Australian Grand Prix|Australian GP]]
+| {{AUS}} [[Melbourne Grand Prix Circuit|Albert Park Grand Prix Circuit]], Melbourne
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255 
+| 26th February
+| 16:00
+| 19:00
+|-
+! 2
+| [[Malaysian Grand Prix]]
+| [[2014 Malaysian Grand Prix|Malaysian GP]]
+| {{MYS}} [[Sepang International Circuit]], Selangor
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 12th March
+| 16:00
+| 19:00
+|-
+! 3
+| [[Bahrain Grand Prix]]
+| [[2014 Bahrain Grand Prix|Bahrain GP]]
+| {{BAH}} [[Bahrain International Circuit]], Sakhir
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 26th March
+| 15:00
+| 19:00
+|-
+! 4
+| [[Chinese Grand Prix]]
+| [[2014 Chinese Grand Prix|Chinese GP]]
+| {{CHN}} [[Shanghai International Circuit]], Shanghai
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 9th April
+| 15:00
+| 19:00
+|-
+! 5
+| [[Spanish Grand Prix]]
+| [[2014 Spanish Grand Prix|Spanish GP]]
+| {{ESP}} [[Circuit de Catalunya]], Barcelona
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 23rd April
+| 14:00
+| 19:00
+|-
+! 6
+| [[Monaco Grand Prix]]
+| [[2014 Monaco Grand Prix|Monaco GP]]
+| {{MON}} [[Circuit de Monaco]], Monte Carlo
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 7th May
+| 14:00
+| 19:00
+|-
+! 7
+| [[Canadian Grand Prix]]
+| [[2014 Canadian Grand Prix|Canadian GP]]
+| {{CAN}} [[Circuit Gilles Villeneuve]], Montreal
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 21st May
+| 14:00
+| 19:00
+|-
+! 8
+| [[Austrian Grand Prix]]
+| [[2014 Austrian Grand Prix|Austrian GP]]
+| {{AUT}} [[Red Bull Ring]], Spielberg
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 4th June
+| 14:00
+| 19:00
+|-
+! 9
+| [[British Grand Prix]]
+| [[2014 British Grand Prix|British GP]]
+| {{UK}} [[Silverstone Circuit]], Northamptonshire
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 18th June
+| 13:00
+| 19:00
+|-
+! 10
+| [[German Grand Prix]]
+| [[2014 German Grand Prix|German GP]]
+| {{GER}} [[Hockenheimring]], Hockenheim
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 2nd July
+| 14:00
+| 19:00
+|-
+! 11
+| [[Hungarian Grand Prix]]
+| [[2014 Hungarian Grand Prix|Hungarian GP]]
+| {{HUN}} [[Hungaroring]], Budapest
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 16th July
+| 14:00
+| 19:00
+|-
+! 12
+| [[Belgian Grand Prix]]
+| [[2014 Belgian Grand Prix|Belgian GP]]
+| {{BEL}} [[Circuit de Spa-Francorchamps]], Spa
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 13th August
+| 14:00
+| 19:00
+|-
+! 13
+| [[Italian Grand Prix]]
+| [[2014 Italian Grand Prix|Italian GP]]
+| {{ITA}} [[Autodromo Nazionale di Monza]], Monza
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 27th August
+| 14:00
+| 19:00
+|-
+! 14
+| [[United States Grand Prix]]
+| [[2014 United States Grand Prix|United States GP]]
+| {{USA}} [[Circuit of the Americas]], Austin
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 10th September
+| 13:00
+| 19:00
+|-
+! 15
+| [[Abu Dhabi Grand Prix]]
+| [[2014 Abu Dhabi Grand Prix|Abu Dhabi GP]]
+| {{UAE}} [[Yas Marina Circuit]], Yas Island
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 24th September
+| 17:00
+| 19:00
+|-
+! 16
+| [[Japanese Grand Prix]]
+| [[2014 Japanese Grand Prix|Japanese GP]]
+| {{JPN}} [[Suzuka Circuit]], Suzuka, Mie
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 8th October
+| 15:00
+| 19:00
+|-
+! 17
+| [[Brazilian Grand Prix]]
+| [[2014 Brazilian Grand Prix|Brazilian GP]]
+| {{BRA}} [[Autódromo José Carlos Pace]], São Paulo
+| TBC
+| [[File:RFactor.png|25px]] [[rFactor]] v1255
+| 22nd October
+| 14:00
+| 19:00
+|}
+
+===Testing===
+
+The 2014 testing schedule is as follows:
+	
+{| class="wikitable" border="1" style="font-size: 85%;"
+!Test
+!width=80|Date
+!width=250|Venue
+|-
+! Preseason Test 
+|align="center"|12th Feb 2014
+| {{TUR}} [[Istanbul Park]], Istanbul
+|-
+|}
+
+===Calendar changes===
+
+*The calender was shortened to 17 races - 1 less than the previous season.
+*The Korean, Turkish and French Grands Prix were all removed from the calender
+*The location of the [[German Grand Prix]] changed from the [[Nurburgring]] to the [[Hockenheimring]]; the first time the German round of the Supercup was to be held there since [[2006 Supercup season|2006]].
+*The location of the [[United States Grand Prix]] also changed. For the first time in Supercup history, the [[Circuit of the Americas]] would be used to host the event.
+*The Bahrain and Chinese Grands Prix made their return to Supercup calender after a 2 and 1 year absence respectively.
+
+==Rule changes==
+
+===Sporting===
+*2014 will see one of the biggest changes to Supercup in the category's history; a move to two races per race evening. Race 1 will be run on a distance of about 175km, with Race 2 roughly 100km (in 2013, the single race was set at 195km). Race 2 will also feature a random reverse grid of the top six to ten drivers from Race 1.
+*Another big change was that for the first time movement up into the Superleague would be automatic for the winning driver and team of the 2014 season.
+
+==Results and standings==
+===Grands Prix===
+{| class="wikitable" style="font-size: 85%;"
+! colspan=2 | Round
+! Grand Prix
+! Pole Position
+! <small>Pole Time</small>
+! Fastest Lap
+! <small>F/L Time</small>
+! Winning Driver
+! Winning Team
+! Report
+|-
+!rowspan=2| 1 !! R1
+|rowspan=2| {{AUS}} [[Supercup Australian Grand Prix]]
+
+| {{blank}}  || -
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|rowspan=2| [[2014 Supercup Australian Grand Prix|Report]]
+|-
+! R2 || ||
+
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|-
+!rowspan=2| 2 !! R3
+|rowspan=2| {{MYS}} [[Supercup Malaysian Grand Prix]]
+
+| {{blank}}  || -
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|rowspan=2| [[2014 Supercup Malaysian Grand Prix|Report]]
+|-
+! R4 || ||
+
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|-
+!rowspan=2| 3 !! R5
+|rowspan=2| {{BAH}} [[Supercup Bahrain Grand Prix]]
+
+| {{blank}}  || -
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|rowspan=2| [[2014 Supercup Bahrain Grand Prix|Report]]
+|-
+! R6 || ||
+
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|-
+!rowspan=2| 3 !! R7
+|rowspan=2| {{CHN}} [[Supercup Chinese Grand Prix]]
+
+| {{blank}}  || -
+| {{blank}}  || -
+| {{blank}}  || {{blank}}  
+
+|rowspan=2| [[2014 Supercup Chinese Grand Prix|Report]]
+|-
+! R8 || ||
+
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|-
+!rowspan=2| 5 !! R9
+|rowspan=2| {{ESP}} [[Supercup Spanish Grand Prix]]
+
+| {{blank}}  || -
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|rowspan=2| [[2014 Supercup Spanish Grand Prix|Report]]
+|-
+! R10 || ||
+
+| {{blank}}  || -
+| {{blank}}  || {{blank}}  
+
+|-
+!rowspan=2| 6 !! R11
+|rowspan=2| {{MON}} [[Supercup Monaco Grand Prix]]
+
+| {{blank}}  || -
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|rowspan=2|  [[2014 Supercup Monaco Grand Prix|Report]]
+|-
+! R12 || ||
+
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|-
+!rowspan=2| 7 !! R13
+|rowspan=2| {{CAN}} [[Supercup Canadian Grand Prix]]
+
+| {{blank}}  || -
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|rowspan=2| [[2014 Supercup Canadian Grand Prix|Report]]
+|-
+! R14 || ||
+
+| {{blank}}  || -
+| {{blank}}  || {{blank}}  
+
+|-
+!rowspan=2| 8 !! R15
+|rowspan=2| {{AUT}} [[Supercup Austrian Grand Prix]]
+
+| {{blank}}  || -
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|rowspan=2| [[2014 Supercup Austrian Grand Prix|Report]]
+|-
+! R16 || ||
+
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|-
+!rowspan=2| 9 !! R17
+|rowspan=2| {{UK}} [[Supercup British Grand Prix]]
+
+| {{blank}}  || -
+| {{blank}}  || -
+| {{blank}}  || {{blank}}  
+
+|rowspan=2| [[2014 Supercup British Grand Prix|Report]]
+|-
+! R18 || ||
+
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|-
+!rowspan=2| 10 !! R19
+|rowspan=2| {{GER}} [[Supercup German Grand Prix]]
+
+| {{blank}}  || -
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|rowspan=2| [[2014 Supercup German Grand Prix|Report]]
+|-
+! R20 || ||
+
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|-
+!rowspan=2| 11 !! R21
+|rowspan=2| {{HUN}} [[Supercup Hungarian Grand Prix]]
+
+| {{blank}}  || -
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|rowspan=2| [[2014 Supercup Hungarian Grand Prix|Report]]
+|-
+! R22 || ||
+
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|-
+!rowspan=2| 12 !! R23
+|rowspan=2| {{BEL}} [[Supercup Belgian Grand Prix]]
+
+| {{blank}}  || -
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|rowspan=2| [[2014 Supercup Belgian Grand Prix|Report]]
+|-
+! R24 || ||
+
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|-
+!rowspan=2| 13 !! R25
+|rowspan=2| {{ITA}} [[Supercup Italian Grand Prix]]
+
+| {{blank}}  || -
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|rowspan=2| [[2014 Supercup Italian Grand Prix|Report]]
+|-
+! R26 || ||
+
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|-
+!rowspan=2| 14 !! R27
+|rowspan=2| {{USA}} [[Supercup United States Grand Prix]]
+
+| {{blank}}  || -
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|rowspan=2| [[2014 Supercup United States Grand Prix|Report]]
+|-
+! R28 || ||
+
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|-
+!rowspan=2| 15 !! R29
+|rowspan=2| {{UAE}} [[Supercup Abu Dhabi Grand Prix]]
+
+| {{blank}}  || -
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|rowspan=2| [[2014 Supercup Abu Dhabi Grand Prix|Report]]
+|-
+! R30 || ||
+
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|-
+!rowspan=2| 16 !! R31
+|rowspan=2| {{JPN}} [[Supercup Japanese Grand Prix]]
+
+| {{blank}}  || -
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|rowspan=2| [[2014 Supercup Japanese Grand Prix|Report]]
+|-
+! R32 || ||
+
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|-
+!rowspan=2| 17 !! R33
+|rowspan=2| {{BRA}} [[Supercup Brazilian Grand Prix]]
+
+| {{blank}}  || -
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|rowspan=2| [[2014 Supercup Brazilian Grand Prix|Report]]
+|-
+! R34 || ||
+
+| {{blank}}  || -
+| {{blank}}  || {{blank}} 
+
+|-
+|}
+
+====Scoring system====
+Points are awarded to the top 15 classified finishers.
+
+{| class="wikitable" style="font-size:85%; text-align:center"
+! Position
+|bgcolor="#ffffbf"| &nbsp;'''1st'''&nbsp;
+|bgcolor="#dfdfdf"| &nbsp;'''2nd'''&nbsp;
+|bgcolor="#ffdf9f"| &nbsp;'''3rd'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''4th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''5th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''6th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''7th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''8th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''9th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''10th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''11th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''12th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''13th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''14th'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''15th'''&nbsp;
+|-
+! Points
+|bgcolor="#ffffbf"| 25
+|bgcolor="#dfdfdf"| 20
+|bgcolor="#ffdf9f"| 16
+|bgcolor="#dfffdf"| 13
+|bgcolor="#dfffdf"| 11
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 9
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 7
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 5
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 3
+|bgcolor="#dfffdf"| 2
+|bgcolor="#dfffdf"| 1
+|}
+
+===Teams' standings===
+
+{|
+|valign="top"|
+{| class="wikitable" style="font-size:85%; text-align:center;"
+|- valign="top"
+!valign="middle"| Pos
+!valign="middle"| Constructor
+!valign="middle"| Car<br />No.
+!colspan=2| [[2014 Australian Grand Prix|AUS]]<br />{{AUS}}
+!colspan=2| [[2014 Malaysian Grand Prix|MYS]]<br />{{MYS}}
+!colspan=2| [[2014 Bahrain Grand Prix|BAH]]<br />{{BAH}}
+!colspan=2| [[2014 Chinese Grand Prix|CHN]]<br />{{CHN}}
+!colspan=2| [[2014 Spanish Grand Prix|ESP]]<br />{{ESP}}
+!colspan=2| [[2014 Monaco Grand Prix|MON]]<br />{{MON}}
+!colspan=2| [[2014 Canadian Grand Prix|CAN]]<br />{{CAN}}
+!colspan=2|[[2014 Austrian Grand Prix|AUT]]<br />{{AUT}}
+!colspan=2| [[2014 British Grand Prix|GBR]]<br />{{UK}}
+!colspan=2| [[2014 German Grand Prix|GER]]<br />{{GER}}
+!colspan=2| [[2014 Hungarian Grand Prix|HUN]]<br />{{HUN}}
+!colspan=2| [[2014 Belgian Grand Prix|BEL]]<br />{{BEL}}
+!colspan=2| [[2014 Italian Grand Prix|ITA]]<br />{{ITA}}
+!colspan=2| [[2014 United States Grand Prix|USA]]<br />{{USA}}
+!colspan=2| [[2014 Abu Dhabi Grand Prix|UAE]]<br />{{UAE}}
+!colspan=2|[[2014 Japanese Grand Prix|JPN]]<br />{{JPN}}
+!colspan=2| [[2014 Brazilian Grand Prix|BRA]]<br />{{BRA}}
+!valign="middle"| Points
+|-			
+!rowspan=2| 1
+|rowspan=2 align="left"| {{SWI}} [[Scuderia Basilea]]
+|0
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  			
+!rowspan=2 align="right"| 0
+|-
+|2
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+|-						
+!rowspan=2| 2
+|rowspan=2 align="left"| {{MAL}} [[Malta Force GP]]
+|3
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+!rowspan=2 align="right"| 0
+|-
+|4
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+|-			
+!rowspan=2| 3
+|rowspan=2 align="left"| {{USA}} [[Satellite Racing]]
+|5
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|	
+!rowspan=2 align="right"| 0
+|-
+|6
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+|-			
+!rowspan=2| 4
+|rowspan=2 align="left"| {{AUS}} [[Streetfighter Racing Systems]]
+|7
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+!rowspan=2 align="right"| 0
+|-
+|8
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+|-			
+!rowspan=2| 5
+|rowspan=2 align="left"| {{ENG}} [[PB Racing]]
+|9
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+!rowspan=2 align="right"| 0
+|-
+|10
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|	
+|-						
+!rowspan=2| 6
+|rowspan=2 align="left"| {{FIN}} [[FA Racing]]
+|11
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+!rowspan=2 align="right"| 0
+|-
+|12
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+|-
+!rowspan=2| 7
+|rowspan=2 align="left"| {{RSA}} [[Centurion Grand Prix]]
+|14
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|	
+!rowspan=2 align="right"| 0
+|-
+|15
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+|-
+!rowspan=2| 8
+|rowspan=2 align="left"| {{BEL}} [[Fox Racing]]
+|16
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+!rowspan=2 align="right"| 0
+|-
+|17
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+|-			
+!rowspan=2| 9
+|rowspan=2 align="left"| {{ROM}} [[Storm Racing Team]]
+|18
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+!rowspan=2 align="right"| 0
+|-
+|19
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+|-			
+!rowspan=2| 10
+|rowspan=2 align="left"| {{NED}} [[Edonis Engineering]]
+|20
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+!rowspan=2 align="right"| 0
+|-
+|21
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|		
+|-			
+!rowspan=2| 11
+|rowspan=2 align="left"| {{BEL}} [[Wauters Automotive]]
+|22
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+!rowspan=2 align="right"| 0
+|-
+|23
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+|-
+!rowspan=2| 12
+|rowspan=2 align="left"| {{USA}} [[SimCraft Racing]]
+|24
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+!rowspan=2 align="right"| 0
+|-
+|25
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+|-						
+!rowspan=2| 13
+|rowspan=2 align="left"| {{NED}} [[Measuric Racing]]
+|26
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+!rowspan=2 align="right"| 0
+|-
+|27
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+|-			
+!rowspan=2| 14
+|rowspan=2 align="left"| {{ESP}} [[Positive SimRacing]]
+|28
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 	
+!rowspan=2 align="right"| 0
+|-
+|29
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|	
+|-			
+!rowspan=2| 15
+|rowspan=2 align="left"| {{ENG}} [[TheSixthAxis Racing]]
+|30
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|	
+!rowspan=2 align="right"| 0
+|-
+|31
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"| 
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|  
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|   
+|bgcolor="#ffffff"|   ||bgcolor="#ffffff"|
+|- valign="top"
+!valign="middle"| Pos
+!valign="middle"| Constructor
+!valign="middle"| Car<br />No.
+!colspan=2| [[2014 Australian Grand Prix|AUS]]<br />{{AUS}}
+!colspan=2| [[2014 Malaysian Grand Prix|MYS]]<br />{{MYS}}
+!colspan=2| [[2014 Bahrain Grand Prix|BAH]]<br />{{BAH}}
+!colspan=2| [[2014 Chinese Grand Prix|CHN]]<br />{{CHN}}
+!colspan=2| [[2014 Spanish Grand Prix|ESP]]<br />{{ESP}}
+!colspan=2| [[2014 Monaco Grand Prix|MON]]<br />{{MON}}
+!colspan=2| [[2014 Canadian Grand Prix|CAN]]<br />{{CAN}}
+!colspan=2|[[2014 Austrian Grand Prix|AUT]]<br />{{AUT}}
+!colspan=2| [[2014 British Grand Prix|GBR]]<br />{{UK}}
+!colspan=2| [[2014 German Grand Prix|GER]]<br />{{GER}}
+!colspan=2| [[2014 Hungarian Grand Prix|HUN]]<br />{{HUN}}
+!colspan=2| [[2014 Belgian Grand Prix|BEL]]<br />{{BEL}}
+!colspan=2| [[2014 Italian Grand Prix|ITA]]<br />{{ITA}}
+!colspan=2| [[2014 United States Grand Prix|USA]]<br />{{USA}}
+!colspan=2| [[2014 Abu Dhabi Grand Prix|UAE]]<br />{{UAE}}
+!colspan=2|[[2014 Japanese Grand Prix|JPN]]<br />{{JPN}}
+!colspan=2| [[2014 Brazilian Grand Prix|BRA]]<br />{{BRA}}
+!valign="middle"| Points
+|-
+|}
+|valign="top"|
+{{F1 driver results legend 2}}
+<span style="font-size:85%">'''Bold'''&nbsp;- Pole<br />
+''Italics''&nbsp;- Fastest lap</span>
+|}
+
+{{sup|†}} Cars did not finish the Grand Prix, but were classified as they completed over 75% of the race distance.
+
+== See also ==
+
+{{S-start}}
+{{Succession box
+| before = [[2013 Supercup season]]
+| title = [[Portal:Supercup|GPVWC Supercup season]]
+| years= '''2014'''
+| after = [[2015 Supercup season]]
+}}
+{{S-end}}
+
+{{DEFAULTSORT:14}}
+[[Category:Supercup seasons]]
+[[Category:2014| 02]]
+[[Category:2014 in Supercup| ]]
