@@ -1,0 +1,59 @@
+﻿{{Template:Portals Navbar}}
+{| cellspacing="0" style="width: 100%; margin-bottom:7px; border:1px solid #cedff2; padding:5px; background-color:#E0D5D1"
+|- bgcolor="#BC99D1" 
+|align="left" style="font-size:12pt; font-weight:bold; padding:5px"|World Sport Series News
+|align="center" width="20" style="font-size:8pt; padding:5px;"| [{{fullurl:Template:World_Sport_Series_News|action=edit}} edit]
+|-
+|colspan=2 |{{World Sport Series News}}
+|}
+
+{| cellspacing="0" style="float:left; width: 50%; margin-bottom:7px; border:1px solid #cedff2; padding:5px; background-color:#E0D5D1"
+|- bgcolor="#BC99D1" 
+|align="left" style="font-size:12pt; font-weight:bold; padding:5px"|About World Sport Series
+|align="center" width="20" style="font-size:8pt; padding:5px;"| [{{fullurl:Template:About_World_Sport_Series|action=edit}} edit]
+|-
+|colspan=2 |{{About World Sport Series}}
+|}
+{| cellspacing="0" style="float:right; width: 49.9%; margin-bottom:7px; border:1px solid #cedff2; padding:5px; background-color:#E0D5D1"
+|- bgcolor="#BC99D1" 
+|align="left" style="font-size:12pt; font-weight:bold; padding:5px"|Latest Standings
+|align="center" width="20" style="font-size:8pt; padding:5px;"| [{{fullurl:Template:WSS_top_5|action=edit}} edit]
+|-
+|colspan=2 |{{WSS top 5}}
+|}
+{| cellspacing="0" style="float:left; width: 50%; margin-bottom:7px; border:1px solid #cedff2; padding:5px; background-color:#E0D5D1"
+|- bgcolor="#BC99D1" 
+|align="left" style="font-size:12pt; font-weight:bold; padding:5px"|Selected image
+|align="center" width="20" style="font-size:8pt; padding:5px;"| [{{fullurl:Template:WSS_image|action=edit}} edit]
+
+|-
+|colspan=2 |{{WSS image}}
+|}
+{| cellspacing="0" style="float:right; width: 49.9%; margin-bottom:7px; border:1px solid #cedff2; padding:5px; background-color:#E0D5D1"
+|- bgcolor="#BC99D1" 
+|align="left" style="font-size:12pt; font-weight:bold; padding:5px"|Upcoming Events
+|align="center" width="20" style="font-size:8pt; padding:5px;"| [{{fullurl:Template:WSS_events|action=edit}} edit]
+|-
+|colspan=2 |{{WSS events}}
+|}
+{| style="width: 100%; margin-bottom:7px; border:1px solid #cedff2; padding:2px; background-color:#E0D5D1"
+|- bgcolor="#BC99D1" 
+|align="center" style="font-size:12pt; font-weight:bold; padding:5px" colspan=2|Useful Links
+|-
+! width=200 bgcolor="#D7B2EA" | World Sport Series seasons
+|style="font-size:9pt" |  '''{{WSS|2012}}'''
+|-
+! bgcolor="#D7B2EA" | World Sport Series <br>Drivers' Champions
+|style="font-size:9pt" |  
+|-
+! bgcolor="#D7B2EA" | Current Teams
+|style="font-size:9pt" | [[Royal Blue Racing]] '''·''' [[Hydraulix Motorsports]] '''·''' [[Epic Motorsports]] '''·''' [[Revolution Motorsport]] '''·''' [[RMI Motorsport]] '''·''' [[Measuric Racing]] '''·''' [[Halcyon Racing Team]] '''·''' [[Torrent Motorsports]] '''·''' [[Hawkeye Racing]] '''·''' [[Hatchell-Pennine]] '''·''' [[Innervision]] '''·''' [[Constant Racing]] '''·''' [[Water Blue Racing]] '''·''' [[Midnight Motorsport]] '''·''' [[Woods Racing]] '''·''' [[Racing Team Schroten]] '''·''' [[Storm Racing Team]] '''·''' [[Streetfighter Racing Systems]] '''·''' [[Red 5 Racing]] '''·''' [[FA Racing]] '''·''' [[DSR]] '''·''' [[COP Racing]] '''·''' [[Milk Racing Team]]
+|-
+<!-- Hidden for now
+! bgcolor="#D7B2EA" | Lists & Categories
+|style="font-size:9pt" | [[List of World Sport Series Drivers' Champions|Drivers' Champions]]  '''·''' [[List of World Sport Series Events|Masters Events]] '''·''' [[:Category:World Sport Series_race_reports|Race reports]] '''·''' [[:Category:World Sport images|Masters Series images]]
+|-
+-->
+|}
+
+[[Category:World Sport Series]]
