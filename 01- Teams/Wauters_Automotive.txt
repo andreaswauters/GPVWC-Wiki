@@ -10,15 +10,22 @@ Series        = FC |
 AssociatedTeams = None |
 Website         = - |
 <!-- Competitions -->
-  Team4         = [[Wauters Automotive FC|Wauters Automotive]]|
+  Team2         = [[Wauters Automotive SC|Wauters Automotive SC]]|
+  Principal2    = {{flagicon|BEL}} [[Andreas Wauters]] |
+  Debut2        = [[2014 Supercup Australian Grand Prix|Australia 2014]]|
+  Team4         = [[Wauters Automotive FC|Wauters Automotive FC]]|
   Principal4    = {{flagicon|BEL}} [[Andreas Wauters]] |
   Debut4        = [[2013 Challenge Australian Grand Prix|Australia 2013]]|
-  Team3         = [[Wauters Automotive GT|Wauters Automotive]]|
+  Team3         = [[Wauters Automotive GT|Wauters Automotive Masters]]|
   Principal3    = {{flagicon|BEL}} [[Andreas Wauters]] |
-  Debut3        = Not yet |
+  Debut3        = [[2013 Mills Masters|Mills 2013]] |
 }}
 
-'''Wauters Automotive''' is a Belgian Simracing team founded and owned by [[Andreas Wauters]] which currently competes in the [[2013 Formula Challenge season]].
+'''Wauters Automotive''' is a Belgian Simracing team founded and owned by [[Andreas Wauters]] in 2013. 
+
+In it's first season, the team competed in FC, WGT, Masters and ITC, bringing home a total of 7 podiums, among which one win in the Masters Series, as well as a reward for best livery in FC. 
+
+The team made the jump to SC in it's second season.    
 
 ==Complete Simracing results==
 
