@@ -1,0 +1,119 @@
+﻿__NOTOC__
+{{Template:Portals Navbar}}
+<div id="mainpage"></div>
+<!------------------------------Banner across top of page------------------------------>
+{| width="100%" cellpadding="1" cellspacing="10" style="background:#EDEDED; border-style:ridge; border-width:3px; border-color:#1F2221;"
+|style="width:50%; color:#000"|
+[[File:GPVWC Banner 2013.png|350px|left]]
+{| style="width:280px; border:solid 0px; background:none;"
+|style="width:280px; text-align:center; white-space:nowrap; color:#000;"|
+<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">Welcome to GPVWC Wiki,</div>
+<div style="top:+0.2em; font-size:95%;">your guide to the GPVWC simracing leagues.</div>
+<div id="articlecount" style="width:100%; text-align:center; font-size:85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] articles in English</div>
+|}
+
+|style="width:14%; font-size:95%;"|
+'''Recent seasons:'''
+*Superleague: ''{{SL|2013}} | {{SL|2014}}''
+*Supercup: ''{{SC|2013}} | {{SC|2014}}''
+*Formula Challenge: ''{{FC|2013}} | {{FC|2014}}''
+*Open Series: ''[[2014 Open Series season|2014]]''
+*Masters Series: ''{{MS|2013}}'' | ''{{MS|2014}}'' 
+*World Sport Series: ''[[2013 World Sport Series season|2013]] | [[2014 World Sport Series season|2014]]''
+*International Touring Cup: ''[[2013/14 International Touring Cup season|2013/14]]''
+*World GT Series: ''[[2013 World GT Series season|2013]] | [[2014 World GT Series season|2014]]''
+*Race of Champions: ''[[2013 Race of Champions|2013]] | [[2014 Race of Champions|2014]]''
+|}
+
+<!------------------------------Links under banner------------------------------>
+{|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
+|style="font-size:95%; padding:10px 0; margin:0px; text-align:left; white-space:nowrap; color:#000;"| <div class="plainlinks">[http://www.gpvwc.com www.gpvwc.com]&nbsp;'''·''' [[GPVWC Wiki:Editing Guide|Editing Guide]]&nbsp;'''·''' [[:Category:Wiki|Wiki Projects]]</div>
+|style="font-size:95%; padding:10px 0; margin:0px; text-align: right; white-space:nowrap; color:#000;"|
+[[Special:PopularPages|Popular Pages]]&nbsp;'''·''' [[Special:Categories|All Categories]]&nbsp;'''·''' [[:Category:Drivers|Drivers]]&nbsp;'''·''' [[List of GPVWC teams|Teams]]&nbsp;'''·''' [[Portal:Images project|Images]]&nbsp;'''·''' [[Special:AllPages|A–Z index]]
+|}
+<!-- Inactive at present
+{{Main Page banner}}
+-->
+
+<!------------------------------Main boxes------------------------------>
+{|style="border-spacing:8px; margin:0px -8px;"
+|class="MainPageBG" style="width:100%;padding:4px;border:1px solid #48B2A4;background-color:#F7F7F7;vertical-align:top"|
+<!------------------------------Left column------------------------------>
+{|width="69%" cellpadding="5" cellspacing="10" style="float:left; background:#EDEDED; border-style:ridge; border-width:3px; border-color:#1F2221;"
+! <h2 style="margin:0; background:#1F2221; font-size:120%; font-weight:bold; border:1px solid #48B2A4; text-align:left; color:#48B2A4; padding:0.2em 0.4em;">About GPVWC Wiki</h2>
+|-
+|style="color:#000; text-align:left; padding-left:15px;"| <div style="float:right;margin-left:0.9em; margin-top:0.2em; padding-left:15px;">
+[[File:Consiglio Australia 12.png|200px|GPVWC]]
+</div>
+<div style="float:middle;">
+This wiki hosts information relating to the '''Grand Prix Virtual World Championship''' (GPVWC), a major simracing organization which runs a wide selection of virtual motorsport competitions. Founded in 2000, the league has constantly evolved since it's inception, at first offering cutting edge offline racing experience, which was then followed by a new era of online racing using the rFactor platform. The league offers competitors our unique team management and car development system, as well as great racing with a friendly and welcoming community.
+
+For more information please check out the [http://www.gpvwc.com/ GPVWC website] and our [[Beginners guide to GPVWC|Beginners Guide]].
+</div>
+|-
+! <h2 style="margin:0; background:#1F2221; font-size:120%; font-weight:bold; border:1px solid #48B2A4; text-align:left; color:#48B2A4; padding:0.2em 0.4em;">Upcoming Events</h2>
+|-
+|style="color:#000; text-align:left; padding-left:15px;"|Below is a list of GPVWC events scheduled for the coming weeks:{{Current events}} 
+|-
+! <h2 style="margin:0; background:#1F2221; font-size:120%; font-weight:bold; border:1px solid #48B2A4; text-align:left; color:#48B2A4; padding:0.2em 0.4em;">GPVWC Wiki News</h2>
+|-
+|style="color:#000; text-align:left; padding-left:15px;"| {{Wiki news}}
+|-
+|}
+<!------------------------------Right column------------------------------>
+{| width="30%" float="right" cellpadding="5" cellspacing="10" style="float:right; background:#EDEDED; border-style:ridge; border-width:3px; border-color:#1F2221;"
+! <h2 style="margin:0;background-color:#1F2221;font-size:120%;font-weight:bold;border:1px solid #48B2A4;text-align:left;color:#48B2A4;padding:0.2em 0.4em;">Selected Wiki Pages</h2>
+|-
+|style="color:#000; text-align:left; padding-left:15px;"|
+*'''[[Beginners_guide_to_GPVWC|GPVWC Beginner's Guide]]'''
+*[[Special:Search|Search for content]]
+*[[Help:Editing_pages|Wiki Editing Help]]
+|-
+! <h2 style="margin:0;background-color:#1F2221;font-size:120%;font-weight:bold;border:1px solid #48B2A4;text-align:left;color:#48B2A4;padding:0.2em 0.4em;">Main Site Links</h2>
+|-
+|style="color:#000; text-align:left; padding-left:15px;"|
+*<div class="plainlinks">[http://www.gpvwc.com/ GPVWC Home Page]</div>
+*<div class="plainlinks">[http://www.gpvwc.com/forum/index.php GPVWC Forum]</div>
+*<div class="plainlinks">[http://gpvwc.liveracers.info/Live GPVWC Live Timing]</div>
+|-
+! <h2 style="margin:0;background:#1F2221;font-size:120%;font-weight:bold;border:1px solid #48B2A4;text-align:left;color:#48B2A4;padding:0.2em 0.4em;">Categories</h2>
+|- 
+|style="color:#000; text-align:left; padding-left:15px;"|<categorytree>GPVWC competitions</categorytree><categorytree depth=0>Drivers</categorytree><categorytree depth=0>Constructors</categorytree><categorytree depth=0>Tracks</categorytree><categorytree depth=0>Images</categorytree><categorytree depth=0>GPVWC Guides</categorytree><categorytree depth=0>Statistics</categorytree><categorytree depth=0>Race reports</categorytree>
+|-
+|}
+|-
+<!------------------------------Main image------------------------------>
+|class="MainPageBG" style="width:100%;padding:4px;border:1px solid #48B2A4;background-color:#F7F7F7;vertical-align:top"|
+{|width="100%" cellpadding="5" cellspacing="10" style="float:left; background:#EDEDED; border-style:ridge; border-width:3px; border-color:#1F2221;"
+! <h2 style="margin:0; background:#1F2221; font-size:120%; font-weight:bold; border:1px solid #48B2A4; text-align:left; color:#48B2A4; padding:0.2em 0.4em;">Featured media presentation</h2>
+|-
+|style="color:#000; float:center;" |{{POTD}}
+|-
+| align="center" style="font-size:85%" |'''Other Media:'''&nbsp;&nbsp;[[:Category:Images by year|By year]]&nbsp;'''·''' [[:Category:Car images|By team]]&nbsp;'''·''' [[:Category:Driver images|By driver]]&nbsp;'''·''' [[:Category:Images by competition|By competition]]&nbsp;'''·''' [[:Category:Track race images|By track]]
+|}
+|}
+<!------------------------------Links by competition------------------------------>
+<div id="articlecount" style="width:100%; text-align:left; font-size:100%;">
+{| style="width:100%;padding:4px;border:1px solid #48B2A4;background-color:#F7F7F7;vertical-align:top"
+|- bgcolor="#1F2221" 
+|align="center" style="font-size:11pt; font-weight:bold; border:1px solid #48B2A4; padding:3px; color:#48B2A4;" colspan=2|Links by Competition
+|-
+! width=200 bgcolor="#B8D1D8" | [[Portal:Superleague|Superleague]]
+|style="font-size:9pt" |  [[:Category:Superleague_seasons|Seasons]] '''·''' [[List of Superleague Grands Prix|Grand Prix]] '''·''' [[:Category:Superleague_race_reports|Race reports]] '''·''' [[List of Superleague World Drivers' Champions|World Drivers' Champions]] '''·''' [[List of Superleague World Constructors' Champions|World Constructors' Champions]] '''·''' [[List of Superleague driver records|Driver records]]
+|-
+! bgcolor="#B8D1D8" | [[Portal:Supercup|Supercup]]
+|style="font-size:9pt" | [[:Category:Supercup_seasons|Seasons]] '''·''' [[List of Supercup Grands Prix|Grand Prix]] '''·''' [[:Category:Supercup_race_reports|Race reports]] '''·''' [[List of Supercup Drivers' Champions|Drivers' Champions]] '''·''' [[List of Supercup Constructors' Champions|Constructors' Champions]] '''·''' [[List of Supercup driver records|Driver records]]
+|-
+! bgcolor="#B8D1D8" | [[Portal:Formula Challenge|Formula Challenge]]
+|style="font-size:9pt" | [[:Category:Formula Challenge seasons|Seasons]] '''·''' [[List of Formula Challenge Grand Prix|Grand Prix]] '''·''' [[:Category:Formula Challenge race reports|Race reports]] '''·''' [[List of Formula Challenge Drivers' Champions|Drivers' Champions]] '''·''' [[List of Formula Challenge Constructors' Champions|Constructors' Champions]]
+|-
+! bgcolor="#B8D1D8" | [[Portal:Masters Series|Masters Series]]
+|style="font-size:9pt" | [[:Category:Masters_Series_seasons|Seasons]] '''·''' [[List of Masters Series Events|Masters Events]] '''·''' [[:Category:Masters_Series_race_reports|Race reports]] '''·''' [[List of Masters Series Drivers' Champions|Drivers' Champions]] '''·''' [[List of Masters Series Constructors' Champions|Constructors' Champions]]
+|-
+! bgcolor="#B8D1D8" | Other Competitions
+|style="font-size:9pt" | [[:Category:Other competitions|Index of Other Competitions]]
+|-
+|}
+
+[[Category:Information pages]]
+[[Category:Perpetual change pages]]
