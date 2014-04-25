@@ -11,7 +11,7 @@ To read a particular article, first, try to consider the nature of the page. If 
 
 http://en.gpvwc.com/wiki/index.php?title=Special%3AAllPages
 
-All pages up to the errors started occuring are there, and you will be able to read them.
+All pages up to when the errors started occuring are there, and you will be able to read them.
 
 If it is a recent or incomplete page, try to browse this repository if you can find the .txt file for the perticular page. Once found, follow these steps: 
 
